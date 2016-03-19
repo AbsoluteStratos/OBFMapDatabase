@@ -1,3 +1,9 @@
+@font-face {
+    font-face-name: Ori;
+    font-family: Ori;
+    src: url("../font/LEVIBRUSH.TTF");
+}
+
 html, body {
     height: 100%;
     /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1d1e58+0,000000+100 */
@@ -8,11 +14,24 @@ html, body {
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1d1e58', endColorstr='#000000',GradientType=0 ); /* IE6-9 */
 }
 
-.mapContainer{
-    height: 60%;
+#map {
     width: 100%;
-    display: block;
-    background: url('../img/Maps/SunkenGlades.png') -300px -50px;
-    /*background-size: calc(100%);*/
-    background-repeat: no-repeat;
+    height: 60%
+}
+
+#mapTitle{
+    width: 70%;
+    height: 5%;
+    margin:0.5vw auto 1.5vw auto;
+    text-align: center;
+    font-family: Ori;
+    font-size: 3.5vw;
+    text-shadow: 0px 0px 1.5vw #fff302;
+    color: white;
+}
+
+#controlPanel{
+    width: 70%;
+    margin:0 auto;
+    background: #a4a1a5;
 }
