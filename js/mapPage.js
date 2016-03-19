@@ -3,6 +3,15 @@
  */
 $(document).ready(function() {
 
+    var map = L.map('map').setView([-45, 30], 4);
+    L.tileLayer('/Ori/img/Maps/FullMap/{z}/{x}/{y}.png', {
+        minZoom: 0,
+        maxZoom: 5,
+        attribution: 'Full Map',
+        tms: true
+    }).addTo(map);
+
+
     $(".mapContainer").mousemove(function(e){
         var bgImage = new Image();
         bgImage.src = $(this).css('background-image').replace(/"/g,"").replace(/url\(|\)$/ig, "");
