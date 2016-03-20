@@ -33,5 +33,21 @@ html, body {
 #controlPanel{
     width: 70%;
     margin:0 auto;
-    background: #a4a1a5;
+}
+
+.controlButton{
+    text-align: center;
+    font-size: 3.5vw;
+    color: #5e48e9;
+    cursor: default;
+}
+
+.noselect {
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none;   /* Chrome/Safari/Opera */
+    -khtml-user-select: none;    /* Konqueror */
+    -moz-user-select: none;      /* Firefox */
+    -ms-user-select: none;       /* IE/Edge */
+    user-select: none;           /* non-prefixed version, currently
+                                  not supported by any browser */
 }
