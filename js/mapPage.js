@@ -30,9 +30,9 @@ $(document).ready(function() {
     }).addTo(map);
 
     icons = createIcons();
-    var lifeCell = icons[0]; var energyCell = icons[1]; var mapStone = icons[2];
+    var lifeCell = icons[0]; var energyCell = icons[1]; var spiritContainer = icons[2]; var mapStone = icons[3];
 
-    var lifeCellData; var energyCellData; var mapStoneData;
+    var lifeCellData; var energyCellData; var spiritContainerData; var mapStoneData;
     $.ajax({
         dataType: "json",
         url: "SunkenGlades.json",
@@ -50,6 +50,12 @@ $(document).ready(function() {
                 }
             });
 
+            spiritContainerData = L.geoJson(getObjects(data,'class','Spirit Container'),{
+                pointToLayer: function(feature,latlng){
+                    return L.marker(latlng,{icon: spiritContainer});
+                }
+            });
+
             mapStoneData = L.geoJson(getObjects(data,'class','Map Stone'),{
                 pointToLayer: function(feature,latlng){
                     return L.marker(latlng,{icon: mapStone});
@@ -58,30 +64,30 @@ $(document).ready(function() {
         }
     }).error(function() {});
 
-    $(".controlButton").click(function(){
-        if($(this).attr("id") == "LifeCell"){
-            if(!map.hasLayer(lifeCellData)){
+    $(".controlCheck[type=checkbox]").on( "click", function(){
+        if($(this).attr("id") == "lifeCheck"){
+            if(this.checked){
                 lifeCellData.addTo(map);
-                $(this).css("background-color","#ccffff");
             }else{
                 map.removeLayer(lifeCellData);
-                $(this).css("background-color","transparent");
             }
-        }else if($(this).attr("id") == "EnergyCell"){
-            if(!map.hasLayer(energyCellData)){
+        }else if($(this).attr("id") == "energyCheck"){
+            if(this.checked){
                 energyCellData.addTo(map);
-                $(this).css("background-color","#ccffff");
             }else{
                 map.removeLayer(energyCellData);
-                $(this).css("background-color","transparent");
             }
-        }else if($(this).attr("id") == "MapStone"){
-            if(!map.hasLayer(mapStoneData)){
+        }else if($(this).attr("id") == "spiritCheck"){
+            if(this.checked){
+                spiritContainerData.addTo(map);
+            }else{
+                map.removeLayer(spiritContainerData);
+            }
+        }else if($(this).attr("id") == "mapCheck"){
+            if(this.checked){
                 mapStoneData.addTo(map);
-                $(this).css("background-color","#ccffff");
             }else{
                 map.removeLayer(mapStoneData);
-                $(this).css("background-color","transparent");
             }
         }
     })
@@ -108,6 +114,16 @@ function createIcons(){
         popupAnchor:  [-3, -76] // point from which the popup should open relative to the iconAnchor
     });
 
+    var spiritContainer = L.icon({
+        iconUrl: '/OBFMapDatabase/img/MapIcons/spirit-light-container.png',
+
+        iconSize:     [25, 25], // size of the icon
+        //shadowSize:   [50, 64], // size of the shadow
+        iconAnchor:   [12.5, 25], // point of the icon which will correspond to marker's location
+        //shadowAnchor: [4, 62],  // the same for the shadow
+        popupAnchor:  [-3, -76] // point from which the popup should open relative to the iconAnchor
+    });
+
     var mapStone = L.icon({
         iconUrl: '/OBFMapDatabase/img/MapIcons/map-stone-fragment.png',
 
@@ -118,7 +134,7 @@ function createIcons(){
         popupAnchor:  [-3, -76] // point from which the popup should open relative to the iconAnchor
     });
 
-    return [lifeCell, energyCell, mapStone]
+    return [lifeCell, energyCell, spiritContainer, mapStone]
 }
 
 // General util stuffs

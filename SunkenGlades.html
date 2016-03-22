@@ -35,11 +35,36 @@
 <div id="mapTitle">The Sunken Glades</div>
 <div id="controlPanel">
     <table id="controlTable" align="center">
+        <tr><td class = "noselect" id="controlTitle" colspan="7">Legnend Control</td></tr>
         <tr>
-            <td class="controlButton noselect" id = "LifeCell">Life Cells</td>
-            <td class="controlButton noselect" id = "EnergyCell">Energy Cells</td>
-            <td class="controlButton noselect" id = "MapStone">Map Stones</td>
-            <td class="controlButton noselect">Test</td>
+            <td class="controlButton noselect" id = "lifeCell">
+                <label for="lifeCheck" class ="controlLabel">
+                <input type="checkbox" class="controlCheck" id = "lifeCheck"/>
+                <img class ="buttonIcon" src="img/MapIcons/life-cell.png" alt="LifeCell">
+                <span>Life Cells</span>
+                </label></td>
+            <td class="controlSpace noselect"></td>
+            <td class="controlButton noselect" id = "EnergyCell">
+                <label for="energyCheck" class ="controlLabel">
+                    <input type="checkbox" class="controlCheck" id = "energyCheck"/>
+                    <img class ="buttonIcon" src="img/MapIcons/energy-cell.png" alt="EnergyCell">
+                    <span>Life Cells</span>
+                </label></td>
+            <td class="controlSpace noselect"></td>
+            <td class="controlButton noselect">
+                <label for="spiritCheck" class ="controlLabel">
+                <input type="checkbox" class="controlCheck" id = "spiritCheck"/>
+                <img class ="buttonIcon" src="img/MapIcons/spirit-light-container.png" alt="SpiritContainer">
+                <span>Spirit Container</span>
+            </label></td>
+            <td class="controlSpace noselect"></td>
+            <td class="controlButton noselect" id = "MapStone">
+            <label for="mapCheck" class ="controlLabel">
+                <input type="checkbox" class="controlCheck" id = "mapCheck"/>
+                <img class ="buttonIcon" src="img/MapIcons/map-stone-fragment.png" alt="LeftCell">
+                <span>Map Stones</span>
+            </label></td>
+
         </tr>
     </table>
 </div>

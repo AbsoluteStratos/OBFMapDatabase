@@ -46,6 +46,21 @@
   },
   {
     "type": "Feature",
+    "class": "Spirit Container",
+    "properties": {
+      "name": "Coors Field",
+      "popupContent": "This is where the Rockies play!"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -10.72,
+        -46.26
+      ]
+    }
+  },
+  {
+    "type": "Feature",
     "class": "Map Stone",
     "properties": {
       "name": "Coors Field",
@@ -54,8 +69,8 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        -20,
-        -59.15
+        -21.62,
+        -56.00
       ]
     }
   }]
