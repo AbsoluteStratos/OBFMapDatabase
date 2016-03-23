@@ -2,14 +2,31 @@
  * Created by Nick on 3/11/2016.
  */
 $(document).ready(function() {
-
-    var map = L.map('map').setView([-45, 30], 4);
-    L.tileLayer('/OBFMapDatabase/img/Maps/FullMap/{z}/{x}/{y}.png', {
+    //Load map tile layers
+    var fullMap = L.tileLayer('/OBFMapDatabase/img/Maps/FullMap/{z}/{x}/{y}.png', {
         minZoom: 0,
         maxZoom: 5,
         attribution: 'Full Map',
         tms: true
-    }).addTo(map);
+    });
+    var localMap = L.tileLayer('/OBFMapDatabase/img/Maps/'+
+        $(document).find("title").text().replace(/\s/g, '')+'/{z}/{x}/{y}.png', {
+        minZoom: 0,
+        maxZoom: 5,
+        attribution: 'Full Map',
+        tms: true
+    });
+    //Create map object
+    var centers = getCenter();
+    var map = L.map('map',{
+        center: [centers[0],centers[1]],
+        zoom: 4,
+        layers: [fullMap,localMap]});
+    var baseMaps = {
+        "Full Map": fullMap,
+        "Local Map": localMap
+    };
+    L.control.layers(baseMaps).addTo(map); //Add layer control
 
     //add standard controls
     L.control.coordinates().addTo(map);
@@ -135,6 +152,15 @@ function createIcons(){
     });
 
     return [lifeCell, energyCell, spiritContainer, mapStone]
+}
+
+function getCenter(){
+    var pageTitle = $(document).find("title").text().replace(/\s/g, '');
+    if(pageTitle == 'SunkenGlades') {
+        return [-50.01,3.25];
+    }else{
+        return [-50.01,3.25];
+    }
 }
 
 // General util stuffs
