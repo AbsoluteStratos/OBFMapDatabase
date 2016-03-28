@@ -1,76 +1,649 @@
 [
   {
     "type": "Feature",
-    "class": "Life Cell",
+    "class": "lifeCell",
+    "collectible": true,
+    "iconIndex": 0,
     "properties": {
-      "name": "Sunken Glades Life Cell 1",
-      "popupContent": ""
+      "name":"Life Cell",
+      "abilities":"Double Jump",
+      "events":"None",
+      "img":"life-cell.png"
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
         0.57,
-        -47.25
+        -46.98
       ]
     }
   },
   {
     "type": "Feature",
-    "class": "Life Cell",
+    "class": "lifeCell",
+    "collectible": true,
+    "iconIndex": 0,
     "properties": {
-      "name": "Sunken Glades Life Cell 2",
-      "popupContent": ""
+      "name":"Life Cell",
+      "abilities":"None",
+      "events":"Ginso Tree",
+      "img":"life-cell.png"
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
         5.58,
-        -51.32
+        -50.96
       ]
     }
   },
   {
     "type": "Feature",
-    "class": "Energy Cell",
+    "class": "energyCell",
+    "collectible": true,
+    "iconIndex": 0,
     "properties": {
-      "name": "Coors Field",
-      "popupContent": "This is where the Rockies play!"
+      "name":"Energy Cell",
+      "abilities":"Wall Jump",
+      "events":"None",
+      "img":"energy-cell.png"
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        -10,
-        -49.15
+        -30.63,
+        -54.52
       ]
     }
   },
   {
     "type": "Feature",
-    "class": "Spirit Container",
+    "class": "energyCell",
+    "collectible": true,
+    "iconIndex": 0,
     "properties": {
-      "name": "Coors Field",
-      "popupContent": "This is where the Rockies play!"
+      "name":"Energy Cell",
+      "abilities":"Wall Jump",
+      "events":"None",
+      "img":"energy-cell.png"
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        -10.72,
+        -8.44,
+        -46.62
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "energyCell",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Energy Cell",
+      "abilities":"None",
+      "events":"None",
+      "img":"energy-cell.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        6.86,
+        -52.30
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "abilityPoint",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Ability Point",
+      "abilities":"Bash or Charge Jump",
+      "events":"None",
+      "img":"ability-point.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -16.04,
+        -45.86
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "abilityPoint",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Ability Point",
+      "abilities":"Bash and Charge Jump",
+      "events":"None",
+      "img":"ability-point.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -9.71,
+        -42.78
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "abilityPoint",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Ability Point",
+      "abilities":"Bash or Charge Jump",
+      "events":"None",
+      "img":"ability-point.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.53,
+        -45.06
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "abilityPoint",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Ability Point",
+      "abilities":"Wall Jump",
+      "events":"None",
+      "img":"ability-point.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        25.62,
+        -51.54
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "abilityPoint",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Ability Point",
+      "abilities":"Charge Jump",
+      "events":"None",
+      "img":"ability-point.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        26.28,
+        -47.84
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritContainer",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Light Container",
+      "abilities":"Charge Jump",
+      "events":"None",
+      "img":"spirit-light-container.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -19.42,
+        -53.90
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritContainer",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Light Container",
+      "abilities":"None",
+      "events":"None",
+      "img":"spirit-light-container.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -24.04,
+        -50.82
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritContainer",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Light Container",
+      "abilities":"Wall Jump",
+      "events":"None",
+      "img":"spirit-light-container.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -19.64,
+        -48.57
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritContainer",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Light Container",
+      "abilities":"None",
+      "events":"Ginso Tree",
+      "img":"spirit-light-container.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        11.21,
+        -51.15
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritContainer",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Light Container",
+      "abilities":"None",
+      "events":"None",
+      "img":"spirit-light-container.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        21.62,
+        -49.98
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritContainer",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Light Container",
+      "abilities":"None",
+      "events":"Ginso Tree",
+      "img":"spirit-light-container.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        17.53,
+        -54.01
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritContainer",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Light Container",
+      "abilities":"None",
+      "events":"None",
+      "img":"spirit-light-container.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -8.04,
+        -53.33
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritContainer",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Light Container",
+      "abilities":"Kuro's Feather",
+      "events":"None",
+      "img":"spirit-light-container.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        42.01,
+        -47.90
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "mapStoneFrag",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Map Stone Fragment",
+      "img":"map-stone-fragment.png",
+      "desc":""
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -12.22,
+        -50.04
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "keystone",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Keystone",
+      "img":"keystone.png",
+      "desc":"For Gate 1"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        20.30,
+        -49.64
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "keystone",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Keystone",
+      "img":"keystone.png",
+      "desc":"For Gate 1"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        9.01,
+        -48.31
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "keystone",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Keystone",
+      "img":"keystone.png",
+      "desc":"For Gate 2"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -18.72,
+        -48.84
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "keystone",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Keystone",
+      "img":"keystone.png",
+      "desc":"For Gate 2"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        3.16,
+        -51.23
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "keystone",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Keystone",
+      "img":"keystone.png",
+      "desc":"For Gate 3"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -11.95,
+        -47.40
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "keystone",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Keystone",
+      "img":"keystone.png",
+      "desc":"For Gate 3"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -16.04,
+        -46.53
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "keystone",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Keystone",
+      "img":"keystone.png",
+      "desc":"For Gate 3"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -16.08,
+        -43.26
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "keystone",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Keystone",
+      "img":"keystone.png",
+      "desc":"For Gate 3"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -11.38,
+        -43.93
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritGate",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Gate 1",
+      "img":"spirit-gate-2.png",
+      "desc":"Requires two keystones"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.66,
+        -49.34
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritGate",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Gate 2",
+      "img":"spirit-gate-2.png",
+      "desc":"Requires two keystones"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -9.45,
+        -49.21
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritGate",
+    "collectible": false,
+    "iconIndex": 1,
+    "properties": {
+      "name":"Spirit Gate 3",
+      "img":"spirit-gate-4.png",
+      "desc":"Requires four keystones"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -11.10,
+        -41.76
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "energyGate",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Energy Gate 1",
+      "img":"energy-gate.png",
+      "desc":"Requires four energy cells"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -10.23,
+        -45.76
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "breakableWall",
+    "collectible": false,
+    "iconIndex": 1,
+    "properties": {
+      "name":"Breakable Floor",
+      "img":"stompable-floor.png",
+      "desc":""
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -6.77,
         -46.26
       ]
     }
   },
   {
     "type": "Feature",
-    "class": "Map Stone",
+    "class": "ancestralTree",
+    "collectible": false,
+    "iconIndex": 0,
     "properties": {
-      "name": "Coors Field",
-      "popupContent": "This is where the Rockies play!"
+      "name":"Ancestral Tree",
+      "img":"ancestral-tree.png",
+      "desc":"Fil's Tree, Wall Jump"
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        -21.62,
-        -56.00
+        -28.08,
+        -55.61
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "mapStone",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Map Stone",
+      "img":"map-stone.png",
+      "desc":""
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        0.62,
+        -51.51
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritWell",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Well",
+      "img":"spirit-well.png",
+      "desc":""
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        23.86,
+        -52.25
       ]
     }
   }]

@@ -2,286 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63ccda6b-fb21-49ec-b3e0-30ea13a6968f" name="Default" comment="Initial commit">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/0/0/0.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/0/0/0.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/1/0/0.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/1/0/0.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/1/0/1.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/1/0/1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/1/1/0.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/1/1/0.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/1/1/1.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/1/1/1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/2/0/1.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/2/0/1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/2/1/1.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/2/1/1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/2/1/2.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/2/1/2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/2/2/1.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/2/2/1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/2/2/2.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/2/2/2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/2/3/1.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/2/3/1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/3/1/2.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/3/1/2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/3/1/3.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/3/1/3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/3/2/2.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/3/2/2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/3/2/3.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/3/2/3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/3/2/4.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/3/2/4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/3/2/5.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/3/2/5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/3/3/2.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/3/3/2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/3/3/3.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/3/3/3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/3/3/4.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/3/3/4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/3/3/5.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/3/3/5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/3/4/2.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/3/4/2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/3/4/3.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/3/4/3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/3/4/4.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/3/4/4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/3/5/2.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/3/5/2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/3/5/3.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/3/5/3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/3/5/4.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/3/5/4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/3/5/5.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/3/5/5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/3/6/2.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/3/6/2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/3/6/3.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/3/6/3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/10/10.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/10/10.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/10/4.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/10/4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/10/5.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/10/5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/10/6.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/10/6.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/10/7.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/10/7.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/10/8.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/10/8.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/10/9.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/10/9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/11/10.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/11/10.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/11/11.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/11/11.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/11/4.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/11/4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/11/5.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/11/5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/11/6.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/11/6.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/11/7.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/11/7.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/11/8.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/11/8.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/11/9.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/11/9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/12/4.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/12/4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/12/5.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/12/5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/12/6.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/12/6.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/13/5.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/13/5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/13/6.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/13/6.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/2/6.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/2/6.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/3/4.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/3/4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/3/5.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/3/5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/3/6.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/3/6.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/4/11.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/4/11.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/4/4.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/4/4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/4/5.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/4/5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/4/6.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/4/6.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/4/7.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/4/7.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/4/8.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/4/8.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/4/9.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/4/9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/5/10.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/5/10.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/5/11.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/5/11.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/5/4.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/5/4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/5/5.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/5/5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/5/6.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/5/6.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/5/7.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/5/7.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/5/8.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/5/8.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/5/9.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/5/9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/6/10.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/6/10.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/6/4.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/6/4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/6/5.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/6/5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/6/6.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/6/6.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/6/7.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/6/7.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/6/8.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/6/8.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/6/9.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/6/9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/7/11.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/7/11.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/7/4.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/7/4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/7/5.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/7/5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/7/6.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/7/6.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/7/7.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/7/7.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/7/8.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/7/8.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/8/5.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/8/5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/8/6.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/8/6.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/8/7.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/8/7.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/8/8.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/8/8.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/8/9.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/8/9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/9/5.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/9/5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/9/6.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/9/6.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/9/7.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/9/7.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/9/8.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/9/8.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/4/9/9.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/4/9/9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/10/10.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/10/10.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/10/11.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/10/11.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/10/12.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/10/12.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/10/13.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/10/13.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/10/14.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/10/14.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/10/15.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/10/15.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/10/16.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/10/16.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/10/17.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/10/17.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/10/18.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/10/18.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/10/19.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/10/19.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/10/20.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/10/20.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/10/23.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/10/23.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/10/9.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/10/9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/11/10.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/11/10.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/11/11.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/11/11.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/11/12.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/11/12.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/11/13.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/11/13.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/11/14.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/11/14.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/11/15.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/11/15.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/11/16.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/11/16.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/11/17.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/11/17.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/11/18.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/11/18.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/11/19.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/11/19.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/11/20.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/11/20.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/11/9.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/11/9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/12/10.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/12/10.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/12/11.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/12/11.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/12/12.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/12/12.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/12/13.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/12/13.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/12/14.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/12/14.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/12/15.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/12/15.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/12/16.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/12/16.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/12/17.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/12/17.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/12/18.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/12/18.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/12/19.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/12/19.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/12/20.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/12/20.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/13/10.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/13/10.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/13/11.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/13/11.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/13/12.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/13/12.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/13/13.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/13/13.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/13/14.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/13/14.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/13/15.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/13/15.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/13/16.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/13/16.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/13/17.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/13/17.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/13/9.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/13/9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/14/10.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/14/10.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/14/11.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/14/11.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/14/12.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/14/12.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/14/15.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/14/15.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/14/16.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/14/16.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/14/17.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/14/17.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/14/9.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/14/9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/15/10.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/15/10.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/15/11.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/15/11.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/15/12.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/15/12.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/15/13.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/15/13.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/15/14.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/15/14.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/15/15.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/15/15.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/15/16.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/15/16.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/15/17.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/15/17.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/15/23.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/15/23.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/16/10.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/16/10.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/16/11.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/16/11.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/16/12.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/16/12.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/16/13.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/16/13.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/16/14.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/16/14.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/16/15.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/16/15.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/16/16.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/16/16.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/16/17.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/16/17.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/17/10.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/17/10.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/17/11.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/17/11.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/17/12.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/17/12.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/17/13.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/17/13.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/17/14.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/17/14.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/17/15.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/17/15.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/17/16.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/17/16.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/17/17.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/17/17.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/17/18.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/17/18.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/18/10.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/18/10.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/18/11.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/18/11.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/18/12.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/18/12.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/18/13.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/18/13.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/18/14.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/18/14.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/18/15.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/18/15.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/18/16.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/18/16.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/18/17.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/18/17.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/18/18.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/18/18.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/19/10.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/19/10.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/19/11.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/19/11.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/19/12.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/19/12.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/19/13.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/19/13.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/19/14.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/19/14.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/19/15.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/19/15.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/19/16.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/19/16.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/19/17.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/19/17.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/19/18.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/19/18.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/20/10.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/20/10.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/20/11.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/20/11.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/20/12.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/20/12.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/20/13.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/20/13.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/20/15.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/20/15.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/20/16.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/20/16.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/20/17.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/20/17.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/20/8.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/20/8.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/20/9.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/20/9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/21/10.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/21/10.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/21/11.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/21/11.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/21/12.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/21/12.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/21/13.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/21/13.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/21/19.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/21/19.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/21/20.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/21/20.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/21/8.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/21/8.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/21/9.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/21/9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/22/10.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/22/10.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/22/11.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/22/11.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/22/12.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/22/12.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/22/13.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/22/13.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/22/14.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/22/14.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/22/15.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/22/15.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/22/16.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/22/16.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/22/17.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/22/17.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/22/18.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/22/18.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/22/19.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/22/19.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/22/20.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/22/20.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/22/21.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/22/21.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/22/22.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/22/22.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/22/23.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/22/23.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/22/8.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/22/8.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/22/9.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/22/9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/23/10.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/23/10.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/23/11.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/23/11.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/23/12.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/23/12.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/23/13.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/23/13.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/23/14.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/23/14.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/23/16.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/23/16.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/23/17.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/23/17.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/23/18.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/23/18.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/23/19.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/23/19.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/23/20.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/23/20.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/23/8.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/23/8.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/23/9.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/23/9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/24/10.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/24/10.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/24/11.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/24/11.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/24/12.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/24/12.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/24/13.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/24/13.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/24/8.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/24/8.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/24/9.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/24/9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/25/10.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/25/10.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/25/11.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/25/11.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/25/12.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/25/12.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/25/8.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/25/8.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/25/9.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/25/9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/26/11.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/26/11.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/26/12.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/26/12.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/27/11.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/27/11.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/27/12.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/27/12.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/5/12.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/5/12.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/5/13.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/5/13.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/6/10.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/6/10.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/6/11.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/6/11.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/6/12.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/6/12.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/6/13.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/6/13.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/6/9.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/6/9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/7/10.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/7/10.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/7/11.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/7/11.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/7/12.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/7/12.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/7/13.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/7/13.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/7/9.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/7/9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/8/10.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/8/10.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/8/11.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/8/11.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/8/12.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/8/12.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/8/13.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/8/13.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/8/23.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/8/23.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/8/8.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/8/8.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/8/9.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/8/9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/9/10.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/9/10.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/9/11.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/9/11.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/9/12.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/9/12.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/9/13.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/9/13.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/9/15.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/9/15.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/9/16.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/9/16.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/9/17.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/9/17.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/9/18.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/9/18.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/9/8.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/9/8.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/FullMap/5/9/9.png" afterPath="$PROJECT_DIR$/img/Maps/FullMap/5/9/9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/MapIcons/energy-cell.png" afterPath="$PROJECT_DIR$/img/MapIcons/energy-cell.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/MapIcons/keystone.png" afterPath="$PROJECT_DIR$/img/MapIcons/keystone.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/MapIcons/life-cell.png" afterPath="$PROJECT_DIR$/img/MapIcons/life-cell.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/MapIcons/map-stone-fragment.png" afterPath="$PROJECT_DIR$/img/MapIcons/map-stone-fragment.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/MapIcons/spirit-light-container.png" afterPath="$PROJECT_DIR$/img/MapIcons/spirit-light-container.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SunkenGlades.html" afterPath="$PROJECT_DIR$/SunkenGlades.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SunkenGlades.json" afterPath="$PROJECT_DIR$/SunkenGlades.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/mapPage.css" afterPath="$PROJECT_DIR$/css/mapPage.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/materialize.css" afterPath="$PROJECT_DIR$/css/materialize.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mapPage.js" afterPath="$PROJECT_DIR$/js/mapPage.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leaflet/leaflet-src.js" afterPath="$PROJECT_DIR$/leaflet/leaflet-src.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leaflet/leaflet.css" afterPath="$PROJECT_DIR$/leaflet/leaflet.css" />
     </list>
     <ignored path="Ori.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -305,28 +38,33 @@
       <file leaf-file-name="SunkenGlades.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SunkenGlades.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.6153846">
-              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-              <folding />
+            <state vertical-scroll-proportion="-16.346153">
+              <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+              <folding>
+                <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mapPage.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="mapPage.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/mapPage.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.65384614">
-              <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.7552602">
+              <caret line="202" column="18" selection-start-line="202" selection-start-column="18" selection-end-line="202" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mapPage.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="mapPage.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/mapPage.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.29278794">
-              <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="7" column="97" selection-start-line="7" selection-start-column="97" selection-end-line="7" selection-end-column="97" />
               <folding>
                 <element signature="e#0#40#0" expanded="false" />
               </folding>
@@ -334,11 +72,31 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="materialize.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/materialize.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-22.0">
+              <caret line="7390" column="12" selection-start-line="7390" selection-start-column="12" selection-end-line="7390" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="leaflet-src.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leaflet/leaflet-src.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.344828">
+              <caret line="4151" column="17" selection-start-line="4151" selection-start-column="10" selection-end-line="4151" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="SunkenGlades.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SunkenGlades.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-28.846153">
-              <caret line="72" column="14" selection-start-line="72" selection-start-column="14" selection-end-line="72" selection-end-column="14" />
+            <state vertical-scroll-proportion="-10.236363">
+              <caret line="543" column="19" selection-start-line="543" selection-start-column="14" selection-end-line="543" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -362,19 +120,20 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/css/materialize.css" />
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/MapPage.css" />
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/leaflet/leaflet.js" />
-        <option value="$PROJECT_DIR$/leaflet/leaflet-src.js" />
         <option value="$PROJECT_DIR$/leaflet/leafletAJAX.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/css/mapPage.css" />
+        <option value="$PROJECT_DIR$/leaflet/leaflet.css" />
+        <option value="$PROJECT_DIR$/leaflet/leaflet-src.js" />
         <option value="$PROJECT_DIR$/SunkenGlades.json" />
-        <option value="$PROJECT_DIR$/SunkenGlades.html" />
         <option value="$PROJECT_DIR$/js/mapPage.js" />
+        <option value="$PROJECT_DIR$/css/materialize.css" />
+        <option value="$PROJECT_DIR$/SunkenGlades.html" />
+        <option value="$PROJECT_DIR$/css/mapPage.css" />
       </list>
     </option>
   </component>
@@ -503,7 +262,39 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MapIcons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OBFMapDatabase" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OBFMapDatabase" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="font" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OBFMapDatabase" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OBFMapDatabase" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -592,45 +383,26 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14635417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14635417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-    </layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -652,32 +424,16 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="36" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SunkenGlades.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -710,7 +466,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -743,7 +504,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="29" column="24" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="24" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -776,7 +542,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="29" column="24" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="24" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -809,7 +580,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -842,7 +618,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="29" column="24" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="24" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -962,27 +743,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/materialize.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.1085272">
-          <caret line="7526" column="9" selection-start-line="7526" selection-start-column="9" selection-end-line="7526" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leaflet/leaflet.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.344828">
-          <caret line="3361" column="20" selection-start-line="3361" selection-start-column="20" selection-end-line="3361" selection-end-column="145" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leaflet/leaflet-src.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334">
-          <caret line="8093" column="141" selection-start-line="8093" selection-start-column="141" selection-end-line="8093" selection-end-column="141" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.018847007">
@@ -1011,37 +771,84 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/mapPage.css">
+    <entry file="file://$PROJECT_DIR$/leaflet/leaflet.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.65384614">
-          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+        <state vertical-scroll-proportion="-15.620689">
+          <caret line="2514" column="142" selection-start-line="2514" selection-start-column="130" selection-end-line="2514" selection-end-column="142" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leaflet/leaflet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="4.811321">
+          <caret line="60" column="34" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/MapIcons/spirit-gate-4.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/MapIcons/spirit-gate-2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leaflet/leaflet-src.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.344828">
+          <caret line="4151" column="17" selection-start-line="4151" selection-start-column="10" selection-end-line="4151" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SunkenGlades.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-28.846153">
-          <caret line="72" column="14" selection-start-line="72" selection-start-column="14" selection-end-line="72" selection-end-column="14" />
+        <state vertical-scroll-proportion="-10.236363">
+          <caret line="543" column="19" selection-start-line="543" selection-start-column="14" selection-end-line="543" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SunkenGlades.html">
+    <entry file="file://$PROJECT_DIR$/css/materialize.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.6153846">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        <state vertical-scroll-proportion="-22.0">
+          <caret line="7390" column="12" selection-start-line="7390" selection-start-column="12" selection-end-line="7390" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/mapPage.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29278794">
-          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="97" selection-start-line="7" selection-start-column="97" selection-end-line="7" selection-end-column="97" />
           <folding>
             <element signature="e#0#40#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SunkenGlades.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.346153">
+          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+          <folding>
+            <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/mapPage.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7552602">
+          <caret line="202" column="18" selection-start-line="202" selection-start-column="18" selection-end-line="202" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
