@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63ccda6b-fb21-49ec-b3e0-30ea13a6968f" name="Default" comment="Initial commit">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/MapIcons/energy-cell.png" afterPath="$PROJECT_DIR$/img/MapIcons/energy-cell.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/MapIcons/keystone.png" afterPath="$PROJECT_DIR$/img/MapIcons/keystone.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/MapIcons/life-cell.png" afterPath="$PROJECT_DIR$/img/MapIcons/life-cell.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/MapIcons/map-stone-fragment.png" afterPath="$PROJECT_DIR$/img/MapIcons/map-stone-fragment.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/MapIcons/spirit-light-container.png" afterPath="$PROJECT_DIR$/img/MapIcons/spirit-light-container.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SunkenGlades.html" afterPath="$PROJECT_DIR$/SunkenGlades.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SunkenGlades.json" afterPath="$PROJECT_DIR$/SunkenGlades.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/mapPage.css" afterPath="$PROJECT_DIR$/css/mapPage.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/materialize.css" afterPath="$PROJECT_DIR$/css/materialize.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mapPage.js" afterPath="$PROJECT_DIR$/js/mapPage.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leaflet/leaflet-src.js" afterPath="$PROJECT_DIR$/leaflet/leaflet-src.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leaflet/leaflet.css" afterPath="$PROJECT_DIR$/leaflet/leaflet.css" />
     </list>
     <ignored path="Ori.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,8 +27,8 @@
       <file leaf-file-name="SunkenGlades.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SunkenGlades.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-16.346153">
-              <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+            <state vertical-scroll-proportion="-22.307692">
+              <caret line="136" column="40" selection-start-line="136" selection-start-column="40" selection-end-line="136" selection-end-column="40" />
               <folding>
                 <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -53,8 +42,8 @@
       <file leaf-file-name="mapPage.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/mapPage.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7552602">
-              <caret line="202" column="18" selection-start-line="202" selection-start-column="18" selection-end-line="202" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.69878185">
+              <caret line="200" column="30" selection-start-line="200" selection-start-column="30" selection-end-line="200" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -833,8 +822,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SunkenGlades.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.346153">
-          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+        <state vertical-scroll-proportion="-22.307692">
+          <caret line="136" column="40" selection-start-line="136" selection-start-column="40" selection-end-line="136" selection-end-column="40" />
           <folding>
             <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -846,8 +835,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/mapPage.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7552602">
-          <caret line="202" column="18" selection-start-line="202" selection-start-column="18" selection-end-line="202" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.69878185">
+          <caret line="200" column="30" selection-start-line="200" selection-start-column="30" selection-end-line="200" selection-end-column="30" />
           <folding />
         </state>
       </provider>
