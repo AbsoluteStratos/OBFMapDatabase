@@ -579,6 +579,24 @@
     "type": "Feature",
     "class": "breakableWall",
     "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Explodable Wall",
+      "img":"breakable-wall.png",
+      "desc":"Requires charge flame"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        10.29,
+        -47.19
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "breakableWall",
+    "collectible": false,
     "iconIndex": 1,
     "properties": {
       "name":"Breakable Floor",

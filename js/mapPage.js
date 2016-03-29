@@ -2,6 +2,8 @@
  * Created by Nick on 3/11/2016.
  */
 $(document).ready(function() {
+    var zoneName = $(document).find("title").text().replace(/\s/g, '');
+
     $('.dropdown-button').dropdown({
             inDuration: 300,
             outDuration: 225,
@@ -18,8 +20,7 @@ $(document).ready(function() {
         attribution: 'Full Map',
         tms: true
     });
-    var localMap = L.tileLayer('/OBFMapDatabase/img/Maps/'+
-        $(document).find("title").text().replace(/\s/g, '')+'/{z}/{x}/{y}.png', {
+    var localMap = L.tileLayer('/OBFMapDatabase/img/Maps/'+zoneName+'/{z}/{x}/{y}.png', {
         minZoom: 0,
         maxZoom: 5,
         attribution: 'Full Map',
@@ -63,7 +64,7 @@ $(document).ready(function() {
 
     $.ajax({
         dataType: "json",
-        url: "SunkenGlades.json",
+        url: "MapJSONData/"+zoneName+".json",
         success: function(data) {
 
             var itemKey;
