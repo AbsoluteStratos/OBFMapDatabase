@@ -1,0 +1,171 @@
+/*Drop down styling, dont know a better way atm*/
+.dropdown-content #SunkenGlades > a > div{
+    background-image:
+            linear-gradient(
+                    rgba(0, 0, 0, 0),
+                    rgba(0, 0, 0, 0)
+            ),
+            url('../img/SunkenGladesMain.jpg');
+}
+
+.dropdown-content #SunkenGlades:hover > a > div{
+    background-image:
+            linear-gradient(
+                    rgba(0, 0, 0, 0.3),
+                    rgba(0, 0, 0, 0.3)
+            ),
+            url('../img/SunkenGladesMain.jpg');
+}
+.dropdown-content #HollowGrove > a > div{
+    background-image:
+            linear-gradient(
+                    rgba(0, 0, 0, 0),
+                    rgba(0, 0, 0, 0)
+            ),
+            url('../img/HollowGroveMain.jpg');
+}
+
+.dropdown-content #HollowGrove:hover > a > div{
+    background-image:
+            linear-gradient(
+                    rgba(0, 0, 0, 0.3),
+                    rgba(0, 0, 0, 0.3)
+            ),
+            url('../img/HollowGroveMain.jpg');
+}
+.dropdown-content #ThornfeltSwamp > a > div{
+    background-image:
+            linear-gradient(
+                    rgba(0, 0, 0, 0),
+                    rgba(0, 0, 0, 0)
+            ),
+            url('../img/ThornFeltSwampMain.jpg');
+}
+
+.dropdown-content #ThornfeltSwamp:hover > a > div{
+    background-image:
+            linear-gradient(
+                    rgba(0, 0, 0, 0.3),
+                    rgba(0, 0, 0, 0.3)
+            ),
+            url('../img/ThornFeltSwampMain.jpg');
+}
+.dropdown-content #MoonGrotto > a > div{
+    background-image:
+            linear-gradient(
+                    rgba(0, 0, 0, 0),
+                    rgba(0, 0, 0, 0)
+            ),
+            url('../img/MoonGrottoMain.jpg');
+}
+
+.dropdown-content #MoonGrotto:hover > a > div{
+    background-image:
+            linear-gradient(
+                    rgba(0, 0, 0, 0.3),
+                    rgba(0, 0, 0, 0.3)
+            ),
+            url('../img/MoonGrottoMain.jpg');
+}
+.dropdown-content #GinsoTree > a > div{
+    background-image:
+            linear-gradient(
+                    rgba(0, 0, 0, 0),
+                    rgba(0, 0, 0, 0)
+            ),
+            url('../img/GinsoTreeMain.jpg');
+}
+
+.dropdown-content #GinsoTree:hover > a > div{
+    background-image:
+            linear-gradient(
+                    rgba(0, 0, 0, 0.3),
+                    rgba(0, 0, 0, 0.3)
+            ),
+            url('../img/GinsoTreeMain.jpg');
+}
+.dropdown-content #MistyWoods > a > div{
+    background-image:
+            linear-gradient(
+                    rgba(0, 0, 0, 0),
+                    rgba(0, 0, 0, 0)
+            ),
+            url('../img/MistyWoodsMain.jpg');
+}
+
+.dropdown-content #MistyWoods:hover > a > div{
+    background-image:
+            linear-gradient(
+                    rgba(0, 0, 0, 0.3),
+                    rgba(0, 0, 0, 0.3)
+            ),
+            url('../img/MistyWoodsMain.jpg');
+}
+.dropdown-content #ValleyoftheWind > a > div{
+    background-image:
+            linear-gradient(
+                    rgba(0, 0, 0, 0),
+                    rgba(0, 0, 0, 0)
+            ),
+            url('../img/ValleyoftheWindMain.jpg');
+}
+
+.dropdown-content #ValleyoftheWind:hover > a > div{
+    background-image:
+            linear-gradient(
+                    rgba(0, 0, 0, 0.3),
+                    rgba(0, 0, 0, 0.3)
+            ),
+            url('../img/ValleyoftheWindMain.jpg');
+}
+.dropdown-content #ForlornRuins > a > div{
+    background-image:
+            linear-gradient(
+                    rgba(0, 0, 0, 0),
+                    rgba(0, 0, 0, 0)
+            ),
+            url('../img/ForlornRuinsMain.jpg');
+}
+
+.dropdown-content #ForlornRuins:hover > a > div{
+    background-image:
+            linear-gradient(
+                    rgba(0, 0, 0, 0.3),
+                    rgba(0, 0, 0, 0.3)
+            ),
+            url('../img/ForlornRuinsMain.jpg');
+}
+.dropdown-content #SorrowPass > a > div{
+    background-image:
+            linear-gradient(
+                    rgba(0, 0, 0, 0),
+                    rgba(0, 0, 0, 0)
+            ),
+            url('../img/SorrowPassMain.jpg');
+}
+
+.dropdown-content #SorrowPass:hover > a > div{
+    background-image:
+            linear-gradient(
+                    rgba(0, 0, 0, 0.3),
+                    rgba(0, 0, 0, 0.3)
+            ),
+            url('../img/SorrowPassMain.jpg');
+}
+.dropdown-content #MountHoru > a > div{
+    background-image:
+            linear-gradient(
+                    rgba(0, 0, 0, 0),
+                    rgba(0, 0, 0, 0)
+            ),
+            url('../img/MountHoruMain.jpg');
+}
+
+.dropdown-content #MountHoru:hover > a > div{
+    background-image:
+            linear-gradient(
+                    rgba(0, 0, 0, 0.3),
+                    rgba(0, 0, 0, 0.3)
+            ),
+            url('../img/MountHoruMain.jpg');
+}

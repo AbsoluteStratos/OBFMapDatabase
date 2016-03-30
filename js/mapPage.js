@@ -5,13 +5,20 @@ $(document).ready(function() {
     var zoneName = $(document).find("title").text().replace(/\s/g, '');
 
     $('.dropdown-button').dropdown({
-            inDuration: 300,
+            inDuration: 0,
             outDuration: 225,
             constrain_width: false, // Does not change width of dropdown to that of the activator
             gutter: 0, // Spacing from edge
-            belowOrigin: false // Displays dropdown below the button
+            belowOrigin: true // Displays dropdown below the button
         }
     );
+
+    $("*").each( function () {
+        var $this = $(this);
+        if (parseInt($this.css("fontSize")) < 12) {
+            $this.css({ "font-size": "12px" });
+        }
+    });
 
     //Load map tile layers
     var fullMap = L.tileLayer('/OBFMapDatabase/img/Maps/FullMap/{z}/{x}/{y}.png', {
@@ -61,7 +68,7 @@ $(document).ready(function() {
     var itemNames = ["lifeCell","energyCell","abilityPoint","spiritContainer","mapStoneFrag","keystone",
         "spiritGate","energyGate","breakableWall","ancestralTree","mapStone","spiritWell"];
     var itemData = new Array(12);
-
+    //Load Map Data JSON
     $.ajax({
         dataType: "json",
         url: "MapJSONData/"+zoneName+".json",
@@ -95,7 +102,8 @@ $(document).ready(function() {
                 }
             }
         }
-    })
+    });
+
 });
 
 // Generate Popup content

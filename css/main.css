@@ -9,8 +9,8 @@ body {
     /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#53cbf1+0,e0f5f6+100 */
     background: #53cbf1; /* Old browsers */
     background: -moz-linear-gradient(top,  #53cbf1 0%, #e0f5f6 100%); /* FF3.6-15 */
-    background: -webkit-linear-gradient(top,  #53cbf1 0%,#e0f5f6 100%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(to bottom,  #53cbf1 0%,#e0f5f6 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    background: -webkit-linear-gradient(top,  #53cbf1 0%, #1000f6 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  #53cbf1 0%, #0700f6 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#53cbf1', endColorstr='#e0f5f6',GradientType=0 ); /* IE6-9 */
 }
 
@@ -18,11 +18,15 @@ body {
 /*Main Title*/
 .parallax-container {
     font-size: 5.5vw;
+    width: 100vw;
+    height: 40vw;
+    max-height: 700px;
+    min-height: 400px;
 }
 
 #mainTitle {
     width: 100%;
-    margin-top: 300px;
+    margin-top: 20vh;
     text-align: center;
     font-family: Ori;
     font-size: 100%;
@@ -38,31 +42,31 @@ body {
 
 @keyframes fadein {
     from { opacity: 0; margin-top: 100px;}
-    to   { opacity: 1; margin-top: 300px;}
+    to   { opacity: 1; margin-top: 20vh;}
 }
 
 /* Firefox < 16 */
 @-moz-keyframes fadein {
     from { opacity: 0; margin-top: 100px;}
-    to   { opacity: 1; margin-top: 300px;}
+    to   { opacity: 1; margin-top: 20vh;}
 }
 
 /* Safari, Chrome and Opera > 12.1 */
 @-webkit-keyframes fadein {
     from { opacity: 0; margin-top: 100px;}
-    to   { opacity: 1; margin-top: 300px;}
+    to   { opacity: 1; margin-top: 20vh;}
 }
 
 /* Internet Explorer */
 @-ms-keyframes fadein {
     from { opacity: 0; margin-top: 100px;}
-    to   { opacity: 1; margin-top: 300px;}
+    to   { opacity: 1; margin-top: 20vh;}
 }
 
 /* Opera < 12.1 */
 @-o-keyframes fadein {
     from { opacity: 0; margin-top: 100px;}
-    to   { opacity: 1; margin-top: 300px;}
+    to   { opacity: 1; margin-top: 20vh;}
 }
 
 .mainTitleText{
@@ -70,8 +74,13 @@ body {
     width: 100%;
     font-size: 4.5vw;
 }
-
-
+#particleSpawner{
+    position: relative;
+    left: 50%;
+    height:1px;
+    width:1px;
+    background:transparent;
+}
 
 /*==========================================*/
 /*Map selection Table*/
@@ -105,6 +114,7 @@ body {
     left: 0;
     width: 100%;
     height: 100%;
+    border-radius: 5px;
 
     opacity: 0.3;
     background: white;
@@ -121,4 +131,15 @@ body {
     font-size: 1.8vw;
     text-align: center;
     width: 100%;
+}
+
+/*Footer Materialize Overriding*/
+footer.page-footer{
+    padding: 0 0 0 0;
+    height: auto;
+}
+footer.page-footer .footer-copyright{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    background-color: #0a0b2f;
 }

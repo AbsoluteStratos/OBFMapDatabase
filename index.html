@@ -6,19 +6,23 @@
     <!--Import css files-->
     <link type="text/css" rel="stylesheet" href="css/materialize.css"  media="screen,projection"/>
     <link type="text/css" rel="stylesheet" href="css/main.css"  media="screen,projection"/>
+    <link type="text/css" rel="stylesheet" href="stylesheets/mainPage.css"  media="screen,projection"/>
     <!--Let browser know website is optimized for mobile-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
     <!--Load js scripts-->
     <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script type="text/javascript" src="js/boxShadowAnimate.js"></script>
     <script type="text/javascript" src="js/materialize.min.js"></script>
     <script type="text/javascript" src="js/main.js"></script>
+    <script type="text/javascript" src="js/particleSpawn.js"></script>
 </head>
 
 <body>
 <div class="parallax-container">
     <div class="parallax"><img src="img/TreeBackground.jpg"></div>
     <div id = "mainTitle">
+        <div id="HiderDiv"><div id="particleSpawner"></div></div>
         <div class="mainTitleText">Ori and the Blind Forest</div>
         <div class="mainTitleText">Map Database</div>
     </div>
@@ -39,7 +43,7 @@
     <table id="mainNavTable" align="center">
         <tr>
             <td class="mainNavZone">
-                <a id = "temp" href="SunkenGlades">
+                <a href="SunkenGlades.html">
                 <div class="mainFadeUp"></div>
                 <img src="img/SunkenGladesMain.jpg" alt="Hollow Grove" class="mainPic">
                 <div class="mainZoneTitle">
@@ -48,82 +52,112 @@
                 </a>
             </td>
             <td class="mainNavZone">
+                <a href="HollowGrove.html">
                 <div class="mainFadeUp"></div>
                 <img src="img/HollowGroveMain.jpg" alt="Hollow Grove" class="mainPic">
                 <div class="mainZoneTitle">
                     Hollow Grove
                 </div>
+                </a>
             </td>
             <td class="mainNavZone">
+                <a href="ThornFeltSwamp.html">
                 <div class="mainFadeUp"></div>
                 <img src="img/ThornFeltSwampMain.jpg" alt="Hollow Grove" class="mainPic">
                 <div class="mainZoneTitle">
                     Thorn Felt Swamp
                 </div>
+                </a>
             </td>
             <td class="mainNavZone">
+                <a href="MoonGrotto.html">
                 <div class="mainFadeUp"></div>
                 <img src="img/MoonGrottoMain.jpg" alt="Hollow Grove" class="mainPic">
                 <div class="mainZoneTitle">
                     Moon Grotto
                 </div>
+                </a>
             </td>
         </tr>
         <tr>
             <td class="mainNavZone">
+                <a href="GinsoTree.html">
                 <div class="mainFadeUp"></div>
-                <img src="img/HollowGroveMain.jpg" alt="Hollow Grove" class="mainPic">
+                <img src="img/GinsoTreeMain.jpg" alt="Ginso Tree" class="mainPic">
                 <div class="mainZoneTitle">
-                    Hollow Grove
+                    Ginso Tree
                 </div>
+                </a>
             </td>
             <td class="mainNavZone">
+                <a href="MistyWoods.html">
                 <div class="mainFadeUp"></div>
-                <img src="img/HollowGroveMain.jpg" alt="Hollow Grove" class="mainPic">
+                <img src="img/MistyWoodsMain.jpg" alt="Misty Woods" class="mainPic">
                 <div class="mainZoneTitle">
-                    Shaden Glades
+                    Misty Woods
                 </div>
+                </a>
             </td>
             <td class="mainNavZone">
+                <a href="ValleyoftheWind.html">
                 <div class="mainFadeUp"></div>
-                <img src="img/HollowGroveMain.jpg" alt="Hollow Grove" class="mainPic">
+                <img src="img/ValleyoftheWindMain.jpg" alt="Valley of the Wind" class="mainPic">
                 <div class="mainZoneTitle">
-                    Hollow Grove
+                    Valley of the Wind
                 </div>
+                </a>
             </td>
             <td class="mainNavZone">
+                <a href="ForlornRuins.html">
                 <div class="mainFadeUp"></div>
-                <img src="img/HollowGroveMain.jpg" alt="Hollow Grove" class="mainPic">
+                <img src="img/ForlornRuinsMain.jpg" alt="Forlorn Ruins" class="mainPic">
                 <div class="mainZoneTitle">
-                    Hollow Grove
+                    Forlorn Ruins
                 </div>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td class="mainNavZone">
+
+            </td>
+            <td class="mainNavZone">
+                <a href="SorrowPass.html">
+                    <div class="mainFadeUp"></div>
+                    <img src="img/SorrowPassMain.jpg" alt="Sorrow Pass" class="mainPic">
+                    <div class="mainZoneTitle">
+                        Sorrow Pass
+                    </div>
+                </a>
+            </td>
+            <td class="mainNavZone">
+                <a href="MountHoru.html">
+                    <div class="mainFadeUp"></div>
+                    <img src="img/MountHoruMain.jpg" alt="Mount Horu" class="mainPic">
+                    <div class="mainZoneTitle">
+                        Mount Horu
+                    </div>
+                </a>
+            </td>
+            <td class="mainNavZone">
             </td>
         </tr>
     </table>
 </div>
 
+<div style="height: 30px;"></div>
 <footer class="page-footer">
-    <div class="container">
-        <div class="row">
-            <div class="col l6 s12">
-                <h5 class="white-text">Footer Content</h5>
-                <p class="grey-text text-lighten-4">You can use rows and columns here to organize your footer content.</p>
-            </div>
-            <div class="col l4 offset-l2 s12">
-                <h5 class="white-text">Links</h5>
-                <ul>
-                    <li><a class="grey-text text-lighten-3" href="#!">Link 1</a></li>
-                    <li><a class="grey-text text-lighten-3" href="#!">Link 2</a></li>
-                    <li><a class="grey-text text-lighten-3" href="#!">Link 3</a></li>
-                    <li><a class="grey-text text-lighten-3" href="#!">Link 4</a></li>
-                </ul>
-            </div>
-        </div>
-    </div>
     <div class="footer-copyright">
         <div class="container">
-            © 2014 Copyright Text
-            <a class="grey-text text-lighten-4 right" href="#!">More Links</a>
+            <div class="row" style="min-height: 60px">
+                <div class="col s6" style="line-height: 15px; padding: 10px 0 10px 0;">
+                    Website Crafted By Nicholas Geneva <br>
+                    Ori and the Blind Forest Copyright Moon Studios
+                </div>
+                <div class="col s6" style="line-height: 20px; padding: 15px 0 15px 0;">
+                    <a class="grey-text text-lighten-4 right" href="http://store.steampowered.com/app/261570/" target='_blank'>Ori and the Blind Forest on Steam</a>
+                </div>
+            </div>
         </div>
     </div>
 </footer>

@@ -196,16 +196,23 @@ footer.page-footer{
     height: auto;
 }
 footer.page-footer .footer-copyright{
-    font-family: Moon, Times, serif;
-    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
     background-color: #0a0b2f;
 }
 .dropdown-content{
-    background-color: #7e20b3;
-    min-width: 100px;
+    background: transparent;
+    min-width: 300px;
     top : auto;
 }
 .dropdown-content li > a{
     font-family: Arial, Helvetica, sans-serif;
     color: white;
+    padding: 0 0;
+    position: relative;
+}
+
+.dropdown-content li > a > div{
+    padding: 20px 20px;
+    text-shadow: 0 0 1.5vw #100e7b, 0 0 2.5vw #1c0066, 0 0 2.5vw #1c0066;
 }
