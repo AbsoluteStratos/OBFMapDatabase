@@ -135,6 +135,7 @@ function createMapPopup(feature, layer) {
     }); //Add stuff to popup and set offset from point
 }
 //Get correct centering for the map based on the zone name
+//For some reason we need to do latitude, longitude
 function getCenter(){
     var pageTitle = $(document).find("title").text().replace(/\s/g, '');
     if(pageTitle == 'SunkenGlades') {
@@ -147,6 +148,16 @@ function getCenter(){
         return [-52.59,71.00];
     }else if(pageTitle == 'GinsoTree') {
         return [-5.81,74.36];
+    }else if(pageTitle == 'MistyWoods') {
+        return [-30.60,-86.64];
+    }else if(pageTitle == 'ValleyoftheWind') {
+        return [-37.72,-41.22];
+    }else if(pageTitle == 'ForlornRuins') {
+        return [-55.03,-83.30];
+    }else if(pageTitle == 'SorrowPass') {
+        return [7.71,-49.87];
+    }else if(pageTitle == 'MountHoru') {
+        return [0.00,20.34];
     }else{
         return [-50.01,3.25];
     }
