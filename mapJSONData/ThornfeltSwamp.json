@@ -96,6 +96,25 @@
   },
   {
     "type": "Feature",
+    "class": "abilityPoint",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Ability Point",
+      "abilities":"Stomp",
+      "events":"None",
+      "img":"ability-point.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        88.55,
+        -41.51
+      ]
+    }
+  },
+  {
+    "type": "Feature",
     "class": "spiritContainer",
     "collectible": true,
     "iconIndex": 0,
@@ -197,7 +216,7 @@
     "properties": {
       "name":"Spirit Light Container",
       "abilities":"Double Jump",
-      "events":"None",
+      "events":"Element of Water Restored",
       "img":"spirit-light-container.png"
     },
     "geometry": {
@@ -224,25 +243,6 @@
       "coordinates": [
         83.01,
         -42.52
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "class": "spiritContainer",
-    "collectible": true,
-    "iconIndex": 0,
-    "properties": {
-      "name":"Spirit Light Container",
-      "abilities":"Stomp",
-      "events":"None",
-      "img":"spirit-light-container.png"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        88.55,
-        -41.51
       ]
     }
   },
@@ -285,13 +285,67 @@
   },
   {
     "type": "Feature",
+    "class": "keystone",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Keystone",
+      "img":"keystone.png",
+      "desc":"For Gate 1"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        103.97,
+        -46.47
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "keystone",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Keystone",
+      "img":"keystone.png",
+      "desc":"For Gate 1"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        93.87,
+        -48.25
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritGate",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Gate 1",
+      "img":"spirit-gate-2.png",
+      "desc":"Requires two keystones"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        107.01,
+        -41.90
+      ]
+    }
+  },
+  {
+    "type": "Feature",
     "class": "breakableWall",
     "collectible": false,
     "iconIndex": 1,
     "properties": {
       "name":"Breakable Floor",
       "img":"stompable-floor.png",
-      "desc":""
+      "desc":"Can Use Motar Projectile"
     },
     "geometry": {
       "type": "Point",
@@ -343,9 +397,9 @@
     "collectible": false,
     "iconIndex": 1,
     "properties": {
-      "name":"Breakable Floor",
+      "name":"Explodable Floor",
       "img":"stompable-floor.png",
-      "desc":""
+      "desc":"Use Flame Charge"
     },
     "geometry": {
       "type": "Point",
@@ -433,9 +487,9 @@
     "collectible": false,
     "iconIndex": 1,
     "properties": {
-      "name":"Breakable Floor/Wall",
+      "name":"Breakable Floor",
       "img":"stompable-floor.png",
-      "desc":"Requires Charge Jump"
+      "desc":""
     },
     "geometry": {
       "type": "Point",

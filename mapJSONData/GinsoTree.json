@@ -1,0 +1,480 @@
+[
+  {
+    "type": "Feature",
+    "class": "energyCell",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Energy Cell",
+      "abilities":"None",
+      "events":"None",
+      "img":"energy-cell.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        75.72,
+        22.27
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritContainer",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Light Container",
+      "abilities":"Double Jump",
+      "events":"None",
+      "img":"spirit-light-container.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        74.49,
+        -12.90
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritContainer",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Light Container",
+      "abilities":"Bash",
+      "events":"None",
+      "img":"spirit-light-container.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        73.56,
+        11.05
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritContainer",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Light Container",
+      "abilities":"Bash",
+      "events":"None",
+      "img":"spirit-light-container.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        73.30,
+        16.43
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritContainer",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Light Container",
+      "abilities":"Bash",
+      "events":"None",
+      "img":"spirit-light-container.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        75.01,
+        19.06
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritContainer",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Light Container",
+      "abilities":"Double Jump",
+      "events":"None",
+      "img":"spirit-light-container.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        66.23,
+        35.92
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritContainer",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Light Container",
+      "abilities":"Bash",
+      "events":"None",
+      "img":"spirit-light-container.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        67.54,
+        40.56
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritContainer",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Light Container",
+      "abilities":"Bash",
+      "events":"None",
+      "img":"spirit-light-container.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        75.28,
+        44.59
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritContainer",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Light Container",
+      "abilities":"Bash",
+      "events":"None",
+      "img":"spirit-light-container.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        75.76,
+        50.79
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritContainer",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Light Container",
+      "abilities":"Bash",
+      "events":"None",
+      "img":"spirit-light-container.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        75.28,
+        57.35
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritContainer",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Light Container",
+      "abilities":"None",
+      "events":"None",
+      "img":"spirit-light-container.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        73.56,
+        60.02
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "keystone",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Keystone",
+      "img":"keystone.png",
+      "desc":"For Gate 1"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        74.97,
+        2.28
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "keystone",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Keystone",
+      "img":"keystone.png",
+      "desc":"For Gate 1"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        76.16,
+        3.38
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "keystone",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Keystone",
+      "img":"keystone.png",
+      "desc":"For Gate 1"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        74.79,
+        6.01
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "keystone",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Keystone",
+      "img":"keystone.png",
+      "desc":"For Gate 1"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        72.33,
+        6.88
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "keystone",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Keystone",
+      "img":"keystone.png",
+      "desc":"For Gate 2"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        72.20,
+        26.78
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "keystone",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Keystone",
+      "img":"keystone.png",
+      "desc":"For Gate 2"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        75.81,
+        27.93
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "keystone",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Keystone",
+      "img":"keystone.png",
+      "desc":"For Gate 2"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        75.19,
+        29.45
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "keystone",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Keystone",
+      "img":"keystone.png",
+      "desc":"For Gate 2"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        72.38,
+        29.35
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritGate",
+    "collectible": false,
+    "iconIndex": 1,
+    "properties": {
+      "name":"Spirit Gate 1",
+      "img":"spirit-gate-4.png",
+      "desc":"Requires four keystones"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        76.64,
+        7.67
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritGate",
+    "collectible": false,
+    "iconIndex": 1,
+    "properties": {
+      "name":"Spirit Gate 2",
+      "img":"spirit-gate-4.png",
+      "desc":"Requires four keystones"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        74.00,
+        31.00
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "breakableWall",
+    "collectible": false,
+    "iconIndex": 1,
+    "properties": {
+      "name":"Breakable Floor",
+      "img":"stompable-floor.png",
+      "desc":"Use Flower Projectile"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        73.30,
+        16.47
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "breakableWall",
+    "collectible": false,
+    "iconIndex": 1,
+    "properties": {
+      "name":"Breakable Floor",
+      "img":"stompable-floor.png",
+      "desc":"Use Flower Projectile"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        74.97,
+        19.27
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "breakableWall",
+    "collectible": false,
+    "iconIndex": 1,
+    "properties": {
+      "name":"Breakable Floor",
+      "img":"stompable-floor.png",
+      "desc":"Use Mortar Projectile"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        71.54,
+        23.42
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "ancestralTree",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Ancestral Tree",
+      "img":"ancestral-tree.png",
+      "desc":"Reem's Tree, Bash"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        75.50,
+        10.16
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritWell",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name": "Spirit Well",
+      "img": "spirit-well.png",
+      "desc": ""
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        80.02,
+        33.40
+      ]
+    }
+  }]

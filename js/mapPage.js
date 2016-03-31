@@ -145,6 +145,8 @@ function getCenter(){
         return [-40.73,90.60];
     }else if(pageTitle == 'MoonGrotto') {
         return [-52.59,71.00];
+    }else if(pageTitle == 'GinsoTree') {
+        return [-5.81,74.36];
     }else{
         return [-50.01,3.25];
     }
