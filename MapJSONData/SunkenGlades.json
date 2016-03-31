@@ -26,7 +26,7 @@
     "properties": {
       "name":"Life Cell",
       "abilities":"None",
-      "events":"Ginso Tree",
+      "events":"Element of Water Restored",
       "img":"life-cell.png"
     },
     "geometry": {
@@ -254,7 +254,7 @@
     "properties": {
       "name":"Spirit Light Container",
       "abilities":"None",
-      "events":"Ginso Tree",
+      "events":"Element of Water Restored",
       "img":"spirit-light-container.png"
     },
     "geometry": {
@@ -292,7 +292,7 @@
     "properties": {
       "name":"Spirit Light Container",
       "abilities":"None",
-      "events":"Ginso Tree",
+      "events":"Element of Water Restored",
       "img":"spirit-light-container.png"
     },
     "geometry": {
@@ -330,7 +330,7 @@
     "properties": {
       "name":"Spirit Light Container",
       "abilities":"Kuro's Feather",
-      "events":"None",
+      "events":"Element of Wind Restored",
       "img":"spirit-light-container.png"
     },
     "geometry": {
@@ -338,6 +338,25 @@
       "coordinates": [
         42.01,
         -47.90
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritContainer",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Light Container",
+      "abilities":"Charge Flame",
+      "events":"None",
+      "img":"spirit-light-container.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        10.94,
+        -47.19
       ]
     }
   },
@@ -563,7 +582,7 @@
     "collectible": false,
     "iconIndex": 0,
     "properties": {
-      "name":"Energy Gate 1",
+      "name":"Energy Gate",
       "img":"energy-gate.png",
       "desc":"Requires four energy cells"
     },
@@ -572,6 +591,24 @@
       "coordinates": [
         -10.23,
         -45.76
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "energyGate",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Energy Gate",
+      "img":"energy-gate.png",
+      "desc":"Requires four energy cells"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        45.77,
+        -48.12
       ]
     }
   },

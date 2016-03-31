@@ -52,7 +52,7 @@ $(document).ready(function(){
     function respawnParticles(){
         for (i = 0; i < particles.length; i++) {
             if(particles[i].rad > maxrad){
-                particles[i].rad = 0;
+                particles[i].rad = 5;
                 particles[i].theta = (Math.random() * 360)*Math.PI/180;
                 particles[i].size = Math.trunc(Math.random() * 1.5);
                 particles[i].speed = (Math.random() * speedrange) + minspeed;

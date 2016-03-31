@@ -1,0 +1,687 @@
+[
+  {
+    "type": "Feature",
+    "class": "lifeCell",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Life Cell",
+      "abilities":"Charge Flame",
+      "events":"None",
+      "img":"life-cell.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        28.87,
+        -40.68
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "lifeCell",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Life Cell",
+      "abilities":"Stomp",
+      "events":"None",
+      "img":"life-cell.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        29.71,
+        -36.99
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "lifeCell",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Life Cell",
+      "abilities":"Bash",
+      "events":"None",
+      "img":"life-cell.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        42.28,
+        -40.71
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "lifeCell",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Life Cell",
+      "abilities":"None",
+      "events":"None",
+      "img":"life-cell.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        49.83,
+        -46.10
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "energyCell",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Energy Cell",
+      "abilities":"None",
+      "events":"None",
+      "img":"energy-cell.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        17.89,
+        -44.09
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "energyCell",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Energy Cell",
+      "abilities":"Bash (Kuro's Feather Optional)",
+      "events":"None",
+      "img":"energy-cell.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        31.86,
+        -28.73
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "energyCell",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Energy Cell",
+      "abilities":"Charge Jump, Kuro's Feather",
+      "events":"None",
+      "img":"energy-cell.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        43.42,
+        -38.65
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "abilityPoint",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Ability Point",
+      "abilities":"Charge Jump or Double Jump",
+      "events":"None",
+      "img":"ability-point.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        21.53,
+        -38.20
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "abilityPoint",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Ability Point",
+      "abilities":"None",
+      "events":"None",
+      "img":"ability-point.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        18.46,
+        -39.81
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "abilityPoint",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Ability Point",
+      "abilities":"Bash (Charge Jump Optional)",
+      "events":"None",
+      "img":"ability-point.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        32.08,
+        -32.55
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "abilityPoint",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Ability Point",
+      "abilities":"Bash or Charge Jump",
+      "events":"None",
+      "img":"ability-point.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        22.98,
+        -32.84
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "abilityPoint",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Ability Point",
+      "abilities":"Stomp",
+      "events":"Element of Water Restored",
+      "img":"ability-point.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        53.57,
+        -46.10
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "abilityPoint",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Ability Point",
+      "abilities":"None",
+      "events":"Element of Water Restored",
+      "img":"ability-point.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        51.90,
+        -49.12
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "abilityPoint",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Ability Point",
+      "abilities":"Kuro's Feather",
+      "events":"Element of Wind Restored",
+      "img":"ability-point.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        51.06,
+        -35.28
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritContainer",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Light Container",
+      "abilities":"1",
+      "events":"None",
+      "img":"spirit-light-container.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -10.25,
+        -39.40
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritContainer",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Light Container",
+      "abilities":"Double Jump",
+      "events":"None",
+      "img":"spirit-light-container.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.66,
+        -38.58
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritContainer",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Light Container",
+      "abilities":"Bash, Double Jump, Wall Jump",
+      "events":"None",
+      "img":"spirit-light-container.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        31.55,
+        -39.44
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritContainer",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Light Container",
+      "abilities":"None",
+      "events":"Element of Water Restored",
+      "img":"spirit-light-container.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        33.27,
+        -44.87
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritContainer",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Light Container",
+      "abilities":"Double Jump",
+      "events":"None",
+      "img":"spirit-light-container.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        54.54,
+        -39.88
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritContainer",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Light Container",
+      "abilities":"Wall Jump",
+      "events":"None",
+      "img":"spirit-light-container.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        47.99,
+        -47.19
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "mapStoneFrag",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Map Stone Fragment",
+      "img":"map-stone-fragment.png",
+      "desc":""
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        47.02,
+        -38.51
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "energyGate",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Energy Gate",
+      "img":"energy-gate.png",
+      "desc":"Requires four energy cells"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        20.70,
+        -39.67
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "energyGate",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Energy Gate",
+      "img":"energy-gate.png",
+      "desc":"Requires four energy cells"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        45.77,
+        -48.12
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "energyGate",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Energy Gate",
+      "img":"energy-gate.png",
+      "desc":"Requires four energy cells"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        50.97,
+        -49.15
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "breakableWall",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Explodable Wall",
+      "img":"breakable-wall.png",
+      "desc":"Requires charge flame"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        26.72,
+        -38.10
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "breakableWall",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Explodable Wall",
+      "img":"breakable-wall.png",
+      "desc":"Requires charge flame"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        19.95,
+        -41.59
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "breakableWall",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Explodable Wall",
+      "img":"breakable-wall.png",
+      "desc":"Requires Charge Flame"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        9.56,
+        -44.00
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "breakableWall",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Breakable Wall",
+      "img":"breakable-wall.png",
+      "desc":"Required Charge Jump"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        33.62,
+        -39.10
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "breakableWall",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Breakable Wall",
+      "img":"breakable-wall.png",
+      "desc":"Requires Bash"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        32.74,
+        -34.52
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "breakableWall",
+    "collectible": false,
+    "iconIndex": 1,
+    "properties": {
+      "name":"Breakable Floor",
+      "img":"stompable-floor.png",
+      "desc":""
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        9.10,
+        -41.77
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "breakableWall",
+    "collectible": false,
+    "iconIndex": 1,
+    "properties": {
+      "name":"Breakable Floor",
+      "img":"stompable-floor.png",
+      "desc":""
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        33.23,
+        -36.58
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "breakableWall",
+    "collectible": false,
+    "iconIndex": 1,
+    "properties": {
+      "name":"Breakable Floor",
+      "img":"stompable-floor.png",
+      "desc":""
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        56.17,
+        -43.43
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "breakableWall",
+    "collectible": false,
+    "iconIndex": 1,
+    "properties": {
+      "name":"Breakable Floor",
+      "img":"stompable-floor.png",
+      "desc":""
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        51.15,
+        -46.62
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "ancestralTree",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Ancestral Tree",
+      "img":"ancestral-tree.png",
+      "desc":"Ano's Tree, Charge Flame"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        3.82,
+        -44.08
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "mapStone",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Map Stone",
+      "img":"map-stone.png",
+      "desc":""
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        53.22,
+        -40.59
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritWell",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name": "Spirit Well",
+      "img": "spirit-well.png",
+      "desc": ""
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.42,
+        -40.79
+      ]
+    }
+  },
+    {
+    "type": "Feature",
+    "class": "spiritWell",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Well",
+      "img":"spirit-well.png",
+      "desc":""
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        43.29,
+        -30.03
+      ]
+    }
+  }]

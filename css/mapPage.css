@@ -49,6 +49,7 @@ tr:first-child {
     font-size: 3.5vw;
     text-shadow: 0 0 1.5vw #fff302;
     color: white;
+    cursor: default;
 }
 
 #controlTable tr, #controlTable td{
@@ -72,7 +73,7 @@ tr:first-child {
     font-family: Moon, Times, serif;
     font-size: 2.5vw;
     color: #bdbfe9;
-    cursor: default;
+    cursor: pointer;
 }
 
 #controlPanel{

@@ -76,7 +76,7 @@ body {
 }
 #particleSpawner{
     position: relative;
-    left: 50%;
+    left: 48%;
     height:1px;
     width:1px;
     background:transparent;

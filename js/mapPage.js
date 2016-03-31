@@ -30,14 +30,14 @@ $(document).ready(function() {
     var localMap = L.tileLayer('/OBFMapDatabase/img/Maps/'+zoneName+'/{z}/{x}/{y}.png', {
         minZoom: 0,
         maxZoom: 5,
-        attribution: 'Full Map',
+        attribution: zoneName,
         tms: true
     });
     //Create map object
     var centers = getCenter();
     var map = L.map('map',{
         center: [centers[0],centers[1]],
-        zoom: 5,
+        zoom: 4,
         layers: [fullMap,localMap]});
     var baseMaps = {
         "Full Map": fullMap,
@@ -68,12 +68,12 @@ $(document).ready(function() {
     var itemNames = ["lifeCell","energyCell","abilityPoint","spiritContainer","mapStoneFrag","keystone",
         "spiritGate","energyGate","breakableWall","ancestralTree","mapStone","spiritWell"];
     var itemData = new Array(12);
+    console.log("mapJSONData/"+zoneName+".json");
     //Load Map Data JSON
     $.ajax({
         dataType: "json",
-        url: "MapJSONData/"+zoneName+".json",
+        url: "mapJSONData/"+zoneName+".json",
         success: function(data) {
-
             var itemKey;
             for (itemKey in itemNames) {
                 var newData = getObjects(data, 'class', itemNames[itemKey]);
@@ -134,11 +134,17 @@ function createMapPopup(feature, layer) {
         maxWidth: 500
     }); //Add stuff to popup and set offset from point
 }
-
+//Get correct centering for the map based on the zone name
 function getCenter(){
     var pageTitle = $(document).find("title").text().replace(/\s/g, '');
     if(pageTitle == 'SunkenGlades') {
         return [-50.01,3.25];
+    }else if(pageTitle == 'HollowGrove') {
+        return [-38.89,24.61];
+    }else if(pageTitle == 'ThornfeltSwamp') {
+        return [-40.73,90.60];
+    }else if(pageTitle == 'MoonGrotto') {
+        return [-52.59,71.00];
     }else{
         return [-50.01,3.25];
     }

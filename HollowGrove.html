@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hollow Grove</title>
+
+    <!--Import Google Icon Font-->
+    <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="shortcut icon" type="image/png" href="favicon.png"/>
+    <!--Import css files-->
+    <link type="text/css" rel="stylesheet" href="css/materialize.css"  media="screen,projection"/>
+    <link type="text/css" rel="stylesheet" href="css/mapPage.css"  media="screen,projection"/>
+    <link type="text/css" rel="stylesheet" href="css/dropDown.css"  media="screen,projection"/>
+
+    <link rel="stylesheet" href="leaflet/leaflet.css" />
+    <link rel="stylesheet" href="leaflet/Cords/dist/Leaflet.Coordinates-0.1.5.css"/>
+    <!--Let browser know website is optimized for mobile-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+    <!--Load js scripts-->
+    <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script type="text/javascript" src="js/materialize.min.js"></script>
+    <script src="leaflet/leaflet-src.js"></script>
+    <script type="text/javascript" src="leaflet/Cords/dist/Leaflet.Coordinates-0.1.5.min.js"></script>
+    <script type="text/javascript" src="js/mapPage.js"></script>
+</head>
+<body>
+<ul id="dropdown1" class="dropdown-content">
+    <li class ="dropDownItem" id="SunkenGlades" ><a href="SunkenGlades.html">
+        <div class="dropDownImage">Sunken Glades</div>
+    </a></li>
+    <li class ="dropDownItem" id="HollowGrove"><a href="HollowGrove.html">
+        <div class="dropDownImage">Hollow Grove</div>
+    </a></li>
+    <li class ="dropDownItem" id="ThornfeltSwamp"><a href="ThornfeltSwamp.html">
+        <div class="dropDownImage">Thornfelt Swamp</div>
+    </a></li>
+    <li class ="dropDownItem" id="MoonGrotto"><a href="MoonGrotto.html">
+        <div class="dropDownImage">Moon Grotto</div>
+    </a></li>
+    <li class ="dropDownItem" id="GinsoTree"><a href="GinsoTree.html">
+        <div class="dropDownImage">Ginso Tree</div>
+    </a></li>
+    <li class ="dropDownItem" id="MistyWoods"><a href="MistyWoods.html">
+        <div class="dropDownImage">Misty Woods</div>
+    </a></li>
+    <li class ="dropDownItem" id="ValleyoftheWind"><a href="ValleyoftheWind.html">
+        <div class="dropDownImage">Valley of the Wind</div>
+    </a></li>
+    <li class ="dropDownItem" id="ForlornRuins"><a href="ForlornRuins.html">
+        <div class="dropDownImage">Forlorn Ruins</div>
+    </a></li>
+    <li class ="dropDownItem" id="SorrowPass"><a href="SorrowPass.html">
+        <div class="dropDownImage">Sorrow Pass</div>
+    </a></li>
+    <li class ="dropDownItem" id="MountHoru"><a href="MountHoru.html">
+        <div class="dropDownImage">Mount Horu</div>
+    </a></li>
+</ul>
+<nav>
+    <div class="nav-wrapper">
+        <ul id="nav-mobile" class="left">
+            <li><a href="index.html">Home</a></li>
+            <li><a class="dropdown-button" href="#!" data-activates="dropdown1">Zones<i class="material-icons right">arrow_drop_down</i></a></li>
+        </ul>
+    </div>
+</nav>
+<div id="map"></div>
+<div class = "noselect" id="mapTitle">Hollow Grove</div>
+<div id="controlPanel">
+    <table id="controlTable" align="center">
+        <tr><td class = "noselect" id="controlTitle" colspan="7">Legnend Control</td></tr>
+        <tr>
+            <td class="controlButton noselect">
+                <label for="lifeCellCheck" class ="controlLabel">
+                <input type="checkbox" class="controlCheck" id = "lifeCellCheck"/>
+                <img class ="buttonIcon" src="img/MapIcons/life-cell.png" alt="LifeCell">
+                <span>Life Cells</span>
+                </label></td>
+            <td class="controlSpace noselect"></td>
+            <td class="controlButton noselect">
+                <label for="energyCellCheck" class ="controlLabel">
+                    <input type="checkbox" class="controlCheck" id = "energyCellCheck"/>
+                    <img class ="buttonIcon" src="img/MapIcons/energy-cell.png" alt="EnergyCell">
+                    <span>Energy Cells</span>
+                </label></td>
+            <td class="controlSpace noselect"></td>
+            <td class="controlButton noselect">
+                <label for="abilityPointCheck" class ="controlLabel">
+                    <input type="checkbox" class="controlCheck" id = "abilityPointCheck"/>
+                    <img class ="buttonIcon" src="img/MapIcons/ability-point.png" alt="AbilityPoint">
+                    <span>Ability Points</span>
+                </label></td>
+            <td class="controlSpace noselect"></td>
+            <td class="controlButton noselect">
+                <label for="spiritContainerCheck" class ="controlLabel">
+                <input type="checkbox" class="controlCheck" id = "spiritContainerCheck"/>
+                <img class ="buttonIcon" src="img/MapIcons/spirit-light-container.png" alt="SpiritContainer">
+                <span>Spirit Containers</span>
+            </label></td>
+        </tr>
+        <tr>
+            <td class="controlButton noselect">
+                <label for="mapStoneFragCheck" class ="controlLabel">
+                    <input type="checkbox" class="controlCheck" id = "mapStoneFragCheck"/>
+                    <img class ="buttonIcon" src="img/MapIcons/map-stone-fragment.png" alt="MapStoneFragment">
+                    <span>Map Stone Fragments</span>
+                </label></td>
+            <td class="controlSpace noselect"></td>
+            <td class="controlButton noselect">
+                <label for="keystoneCheck" class ="controlLabel">
+                    <input type="checkbox" class="controlCheck" id = "keystoneCheck"/>
+                    <img class ="buttonIcon" src="img/MapIcons/keystone.png" alt="Keystone">
+                    <span>Keystones</span>
+                </label></td>
+            <td class="controlSpace noselect"></td>
+            <td class="controlButton noselect" id = "EnergyCell">
+                <label for="spiritGateCheck" class ="controlLabel">
+                    <input type="checkbox" class="controlCheck" id = "spiritGateCheck"/>
+                    <img class ="buttonIcon" src="img/MapIcons/spirit-gate.png" alt="SpiritGate">
+                    <span>Spirit Gates</span>
+                </label></td>
+            <td class="controlSpace noselect"></td>
+            <td class="controlButton noselect">
+                <label for="energyGateCheck" class ="controlLabel">
+                    <input type="checkbox" class="controlCheck" id = "energyGateCheck"/>
+                    <img class ="buttonIcon" src="img/MapIcons/energy-gate.png" alt="EnergyGate">
+                    <span>Energy Gates</span>
+                </label></td>
+        </tr>
+        <tr>
+            <td class="controlButton noselect">
+                <label for="breakableWallCheck" class ="controlLabel">
+                    <input type="checkbox" class="controlCheck" id = "breakableWallCheck"/>
+                    <img class ="buttonIcon" src="img/MapIcons/breakable-wall.png" alt="BreakableWall">
+                    <span>Breakable Walls</span>
+                </label></td>
+            <td class="controlSpace noselect"></td>
+            <td class="controlButton noselect">
+                <label for="ancestralTreeCheck" class ="controlLabel">
+                    <input type="checkbox" class="controlCheck" id = "ancestralTreeCheck" checked/>
+                    <img class ="buttonIcon" src="img/MapIcons/ancestral-tree.png" alt="AncestralTree">
+                    <span>Ancestral Trees</span>
+                </label></td>
+            <td class="controlSpace noselect"></td>
+            <td class="controlButton noselect">
+                <label for="mapStoneCheck" class ="controlLabel">
+                    <input type="checkbox" class="controlCheck" id = "mapStoneCheck" checked/>
+                    <img class ="buttonIcon" src="img/MapIcons/map-stone.png" alt="MapStone">
+                    <span>Map Stone</span>
+                </label></td>
+            <td class="controlSpace noselect"></td>
+            <td class="controlButton noselect">
+                <label for="spiritWellCheck" class ="controlLabel">
+                    <input type="checkbox" class="controlCheck" id = "spiritWellCheck" checked/>
+                    <img class ="buttonIcon" src="img/MapIcons/spirit-well.png" alt="SpiritWell">
+                    <span>Spirit Wells</span>
+                </label></td>
+        </tr>
+    </table>
+</div>
+<div style="height: 30px;"></div>
+<footer class="page-footer">
+    <div class="footer-copyright">
+        <div class="container">
+            <div class="row" style="min-height: 60px">
+            <div class="col s6" style="line-height: 15px; padding: 10px 0 10px 0;">
+                Website Crafted By Nicholas Geneva <br>
+                Ori and the Blind Forest © Moon Studios
+            </div>
+            <div class="col s6" style="line-height: 20px; padding: 15px 0 15px 0;">
+                <a class="grey-text text-lighten-4 right" href="http://store.steampowered.com/app/261570/" target='_blank'>Ori and the Blind Forest on Steam</a>
+            </div>
+            </div>
+        </div>
+    </div>
+</footer>
+</body>
+</html>

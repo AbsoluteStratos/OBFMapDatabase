@@ -1,0 +1,636 @@
+[
+{
+    "type": "Feature",
+    "class": "lifeCell",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Life Cell",
+      "abilities":"Double Jump",
+      "events":"None",
+      "img":"life-cell.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        62.09,
+        -49.50
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "lifeCell",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Life Cell",
+      "abilities":"Bash",
+      "events":"None",
+      "img":"life-cell.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        76.64,
+        -47.01
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "lifeCell",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Life Cell",
+      "abilities":"Bash or Charge Jump",
+      "events":"None",
+      "img":"life-cell.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        58.32,
+        -60.28
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "energyCell",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Energy Cell",
+      "abilities":"None",
+      "events":"None",
+      "img":"energy-cell.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        62.01,
+        -45.24
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "energyCell",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Energy Cell",
+      "abilities":"Double Jump",
+      "events":"None",
+      "img":"energy-cell.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        76.77,
+        -59.18
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "energyCell",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Energy Cell",
+      "abilities":"None",
+      "events":"None",
+      "img":"energy-cell.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        73.26,
+        -64.00
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "abilityPoint",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Ability Point",
+      "abilities":"None",
+      "events":"None",
+      "img":"ability-point.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        65.21,
+        -55.18
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "abilityPoint",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Ability Point",
+      "abilities":"Double Jump",
+      "events":"None",
+      "img":"ability-point.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        65.08,
+        -63.45
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritContainer",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Light Container",
+      "abilities":"Double Jump",
+      "events":"None",
+      "img":"spirit-light-container.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        63.19,
+        -39.84
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritContainer",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Light Container",
+      "abilities":"Double Jump",
+      "events":"None",
+      "img":"spirit-light-container.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        68.38,
+        -42.91
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritContainer",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Light Container",
+      "abilities":"Bash",
+      "events":"None",
+      "img":"spirit-light-container.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        77.30,
+        -43.13
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritContainer",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Light Container",
+      "abilities":"Double Jump",
+      "events":"None",
+      "img":"spirit-light-container.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        65.30,
+        -45.03
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritContainer",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Light Container",
+      "abilities":"Stomp",
+      "events":"Element of Water Restored",
+      "img":"spirit-light-container.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        53.88,
+        -48.49
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritContainer",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Light Container",
+      "abilities":"None",
+      "events":"Element of Water Restored",
+      "img":"spirit-light-container.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        62.14,
+        -53.59
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritContainer",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Light Container",
+      "abilities":"None",
+      "events":"None",
+      "img":"spirit-light-container.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        80.51,
+        -51.48
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritContainer",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Light Container",
+      "abilities":"Double Jump",
+      "events":"None",
+      "img":"spirit-light-container.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        67.28,
+        -60.09
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritContainer",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Light Container",
+      "abilities":"Double Jump",
+      "events":"None",
+      "img":"spirit-light-container.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        70.75,
+        -60.09
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritContainer",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Light Container",
+      "abilities":"Double Jump",
+      "events":"None",
+      "img":"spirit-light-container.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        50.54,
+        -59.06
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritContainer",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Light Container",
+      "abilities":"None",
+      "events":"None",
+      "img":"spirit-light-container.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        80.16,
+        -60.50
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritContainer",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Light Container",
+      "abilities":"Double Jump",
+      "events":"None",
+      "img":"spirit-light-container.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        59.85,
+        -60.97
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritContainer",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Light Container",
+      "abilities":"None",
+      "events":"Element of Water Restored",
+      "img":"spirit-light-container.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        58.75,
+        -62.50
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritContainer",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Light Container",
+      "abilities":"None",
+      "events":"None",
+      "img":"spirit-light-container.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        71.98,
+        -63.98
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritContainer",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Light Container",
+      "abilities":"Double Jump",
+      "events":"None",
+      "img":"spirit-light-container.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        102.83,
+        -61.71
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "mapStoneFrag",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Map Stone Fragment",
+      "img":"map-stone-fragment.png",
+      "desc":""
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        72.95,
+        -62.47
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "keystone",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Keystone",
+      "img":"keystone.png",
+      "desc":"For Gate 1"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.44,
+        -60.69
+      ]
+    }
+  },
+   {
+    "type": "Feature",
+    "class": "keystone",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Keystone",
+      "img":"keystone.png",
+      "desc":"For Gate 1"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        86.26,
+        -62.02
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritGate",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Gate 1",
+      "img":"spirit-gate-2.png",
+      "desc":"Requires two keystones"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        88.17,
+        -60.20
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "energyGate",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Energy Gate",
+      "img":"energy-gate.png",
+      "desc":"Requires four energy cells"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        66.95,
+        -63.28
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "energyGate",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Energy Gate",
+      "img":"energy-gate.png",
+      "desc":"Requires two energy cells"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        65.67,
+        -51.21
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "breakableWall",
+    "collectible": false,
+    "iconIndex": 1,
+    "properties": {
+      "name":"Breakable Floor",
+      "img":"stompable-floor.png",
+      "desc":""
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        53.83,
+        -47.52
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "breakableWall",
+    "collectible": false,
+    "iconIndex": 1,
+    "properties": {
+      "name":"Breakable Floor",
+      "img":"stompable-floor.png",
+      "desc":""
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        61.48,
+        -41.93
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "ancestralTree",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Ancestral Tree",
+      "img":"ancestral-tree.png",
+      "desc":"Leru's Tree, Double Jump"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        106.22,
+        -62.15
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "mapStone",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Map Stone",
+      "img":"map-stone.png",
+      "desc":""
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        68.70,
+        -61.0
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritWell",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name": "Spirit Well",
+      "img": "spirit-well.png",
+      "desc": ""
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        73.78,
+        -45.83
+      ]
+    }
+  }]
