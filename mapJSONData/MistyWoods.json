@@ -1,0 +1,58 @@
+[
+  {
+    "type": "Feature",
+    "class": "energyCell",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Energy Cell",
+      "abilities":"1",
+      "events":"None",
+      "img":"energy-cell.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -88.77,
+        -25.92
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "abilityPoint",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Ability Point",
+      "abilities":"1",
+      "events":"None",
+      "img":"ability-point.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -120.63,
+        -29.08
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "breakableWall",
+    "collectible": false,
+    "iconIndex": 1,
+    "properties": {
+      "name":"Breakable Floor",
+      "img":"stompable-floor.png",
+      "desc":""
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.99,
+        -31.95
+      ]
+    }
+  }
+]

@@ -1,0 +1,464 @@
+[
+ {
+    "type": "Feature",
+    "class": "energyCell",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Energy Cell",
+      "abilities":"None",
+      "events":"None",
+      "img":"energy-cell.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -28.61,
+        -44.59
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "abilityPoint",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Ability Point",
+      "abilities":"Stomp",
+      "events":"None",
+      "img":"ability-point.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -14.85,
+        -40.31
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "abilityPoint",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Ability Point",
+      "abilities":"Charge Jump",
+      "events":"None",
+      "img":"ability-point.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -25.18,
+        -26.63
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "abilityPoint",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Ability Point",
+      "abilities":"Bash",
+      "events":"None",
+      "img":"ability-point.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -32.96,
+        -21.62
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "abilityPoint",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Ability Point",
+      "abilities":"Charge Jump",
+      "events":"None",
+      "img":"ability-point.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -40.08,
+        -37.13
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritContainer",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Light Container",
+      "abilities":"Bash",
+      "events":"None",
+      "img":"spirit-light-container.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -16.74,
+        -37.47
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritContainer",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Light Container",
+      "abilities":"None",
+      "events":"None",
+      "img":"spirit-light-container.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -33.27,
+        -37.93
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritContainer",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Light Container",
+      "abilities":"Bash",
+      "events":"None",
+      "img":"spirit-light-container.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -31.33,
+        -38.82
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritContainer",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Light Container",
+      "abilities":"Bash",
+      "events":"None",
+      "img":"spirit-light-container.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -40.30,
+        -21.70
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritContainer",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Light Container",
+      "abilities":"None",
+      "events":"None",
+      "img":"spirit-light-container.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -55.06,
+        -39.37
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritContainer",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Light Container",
+      "abilities":"Double Jump",
+      "events":"None",
+      "img":"spirit-light-container.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -55.02,
+        -50.54
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritContainer",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Light Container",
+      "abilities":"None",
+      "events":"None",
+      "img":"spirit-light-container.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -45.75,
+        -52.24
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritContainer",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Light Container",
+      "abilities":"Stomp",
+      "events":"None",
+      "img":"spirit-light-container.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -52.29,
+        -53.80
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "mapStoneFrag",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Map Stone Fragment",
+      "img":"map-stone-fragment.png",
+      "desc":""
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -43.64,
+        -43.77
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "mapStoneFrag",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Map Stone Fragment",
+      "img":"map-stone-fragment.png",
+      "desc":""
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -56.56,
+        -38.82
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "breakableWall",
+    "collectible": false,
+    "iconIndex": 1,
+    "properties": {
+      "name":"Breakable Floor",
+      "img":"stompable-floor.png",
+      "desc":""
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -14.19,
+        -39.94
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "breakableWall",
+    "collectible": false,
+    "iconIndex": 1,
+    "properties": {
+      "name":"Breakable Floor",
+      "img":"stompable-floor.png",
+      "desc":""
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -18.90,
+        -40.41
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "breakableWall",
+    "collectible": false,
+    "iconIndex": 1,
+    "properties": {
+      "name":"Breakable Floor",
+      "img":"stompable-floor.png",
+      "desc":""
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -44.47,
+        -41.48
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "breakableWall",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Breakable Wall",
+      "img":"stompable-floor.png",
+      "desc":"Need Charge Jump"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -41.38,
+        -37.20
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "breakableWall",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Breakable Wall",
+      "img":"stompable-floor.png",
+      "desc":"Need Charge Jump"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -26.24,
+        -26.82
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "breakableWall",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Breakable Wall",
+      "img":"stompable-floor.png",
+      "desc":"Use Rolling Kamikaze Enemy"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -44.60,
+        -43.77
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "breakableWall",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Breakable Wall",
+      "img":"stompable-floor.png",
+      "desc":"Use Kamikaze Enemy"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -47.59,
+        -44.75
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "breakableWall",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Breakable Wall",
+      "img":"stompable-floor.png",
+      "desc":"Use Kamikaze Enemy and Bash"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -43.81,
+        -45.12
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "mapStone",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Map Stone",
+      "img":"map-stone.png",
+      "desc":""
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -39.20,
+        -45.20
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritWell",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name": "Spirit Well",
+      "img": "spirit-well.png",
+      "desc": ""
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -42.75,
+        -28.95
+      ]
+    }
+  }]

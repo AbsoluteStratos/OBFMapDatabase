@@ -1,0 +1,94 @@
+[
+{
+    "type": "Feature",
+    "class": "lifeCell",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Life Cell",
+      "abilities":"None",
+      "events":"None",
+      "img":"life-cell.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -65.17,
+        -56.34
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritContainer",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Light Container",
+      "abilities":"None",
+      "events":"None",
+      "img":"spirit-light-container.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -75.50,
+        -61.10
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritContainer",
+    "collectible": true,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Spirit Light Container",
+      "abilities":"None",
+      "events":"None",
+      "img":"spirit-light-container.png"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -92.37,
+        -58.81
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "mapStone",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name":"Map Stone",
+      "img":"map-stone.png",
+      "desc":""
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -92.59,
+        -55.85
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "class": "spiritWell",
+    "collectible": false,
+    "iconIndex": 0,
+    "properties": {
+      "name": "Spirit Well",
+      "img": "spirit-well.png",
+      "desc": ""
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -100.85,
+        -55.48
+      ]
+    }
+  }]
