@@ -83,7 +83,7 @@
     "properties": {
       "name":"Ability Point",
       "abilities":"Charge Jump",
-      "events":"None",
+      "events":"Element of Wind Restored",
       "img":"ability-point.png"
     },
     "geometry": {
@@ -398,7 +398,7 @@
     "properties": {
       "name":"Breakable Wall",
       "img":"stompable-floor.png",
-      "desc":"Use Kamikaze Enemy"
+      "desc":"Use Rolling Kamikaze Enemy"
     },
     "geometry": {
       "type": "Point",

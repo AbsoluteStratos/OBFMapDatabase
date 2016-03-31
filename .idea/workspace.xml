@@ -4,21 +4,14 @@
     <list default="true" id="63ccda6b-fb21-49ec-b3e0-30ea13a6968f" name="Default" comment="Initial commit">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/MistyWoods/0/0/0.png" afterPath="$PROJECT_DIR$/img/Maps/MistyWoods/0/0/0.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/MistyWoods/1/0/0.png" afterPath="$PROJECT_DIR$/img/Maps/MistyWoods/1/0/0.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/MistyWoods/2/0/1.png" afterPath="$PROJECT_DIR$/img/Maps/MistyWoods/2/0/1.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/MistyWoods/2/1/1.png" afterPath="$PROJECT_DIR$/img/Maps/MistyWoods/2/1/1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/MistyWoods/3/1/3.png" afterPath="$PROJECT_DIR$/img/Maps/MistyWoods/3/1/3.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/MistyWoods/3/2/3.png" afterPath="$PROJECT_DIR$/img/Maps/MistyWoods/3/2/3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/MistyWoods/4/3/6.png" afterPath="$PROJECT_DIR$/img/Maps/MistyWoods/4/3/6.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/MistyWoods/4/3/7.png" afterPath="$PROJECT_DIR$/img/Maps/MistyWoods/4/3/7.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/MistyWoods/4/4/6.png" afterPath="$PROJECT_DIR$/img/Maps/MistyWoods/4/4/6.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/MistyWoods/4/4/7.png" afterPath="$PROJECT_DIR$/img/Maps/MistyWoods/4/4/7.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/MistyWoods/5/7/13.png" afterPath="$PROJECT_DIR$/img/Maps/MistyWoods/5/7/13.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/MistyWoods/5/7/14.png" afterPath="$PROJECT_DIR$/img/Maps/MistyWoods/5/7/14.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/MistyWoods/5/8/13.png" afterPath="$PROJECT_DIR$/img/Maps/MistyWoods/5/8/13.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/MistyWoods/5/8/14.png" afterPath="$PROJECT_DIR$/img/Maps/MistyWoods/5/8/14.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/MistyWoods/5/9/13.png" afterPath="$PROJECT_DIR$/img/Maps/MistyWoods/5/9/13.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Maps/MistyWoods/5/9/14.png" afterPath="$PROJECT_DIR$/img/Maps/MistyWoods/5/9/14.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mapJSONData/MistyWoods.json" afterPath="$PROJECT_DIR$/mapJSONData/MistyWoods.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mapJSONData/ValleyoftheWind.json" afterPath="$PROJECT_DIR$/mapJSONData/ValleyoftheWind.json" />
     </list>
     <ignored path="Ori.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -49,31 +42,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MistyWoods.json" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SunkenGlades.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mapJSONData/SunkenGlades.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.1454544">
+              <caret line="331" column="33" selection-start-line="331" selection-start-column="19" selection-end-line="331" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MistyWoods.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mapJSONData/MistyWoods.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.307693">
-              <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.111363634">
+              <caret line="185" column="7" selection-start-line="185" selection-start-column="7" selection-end-line="185" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ForlornRuins.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mapJSONData/ForlornRuins.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-35.307693">
-              <caret line="54" column="14" selection-start-line="54" selection-start-column="14" selection-end-line="54" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ValleyoftheWind.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ValleyoftheWind.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mapJSONData/ValleyoftheWind.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3632236">
-              <caret line="141" column="23" selection-start-line="141" selection-start-column="23" selection-end-line="141" selection-end-column="23" />
+            <state vertical-scroll-proportion="72.0">
+              <caret line="96" column="2" selection-start-line="96" selection-start-column="2" selection-end-line="114" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MoonGrotto.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mapJSONData/MoonGrotto.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.0">
+              <caret line="492" column="2" selection-start-line="492" selection-start-column="2" selection-end-line="509" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -94,26 +97,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-22.884615">
               <caret line="68" column="51" selection-start-line="68" selection-start-column="51" selection-end-line="68" selection-end-column="51" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SorrowPass.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SorrowPass.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-22.884615">
-              <caret line="68" column="49" selection-start-line="68" selection-start-column="49" selection-end-line="68" selection-end-column="49" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MountHoru.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MountHoru.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-20.923077">
-              <caret line="68" column="48" selection-start-line="68" selection-start-column="48" selection-end-line="68" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -186,9 +169,9 @@
         <option value="$PROJECT_DIR$/MountHoru.html" />
         <option value="$PROJECT_DIR$/js/mapPage.js" />
         <option value="$PROJECT_DIR$/MistyWoods.html" />
-        <option value="$PROJECT_DIR$/mapJSONData/MistyWoods.json" />
         <option value="$PROJECT_DIR$/mapJSONData/ForlornRuins.json" />
         <option value="$PROJECT_DIR$/mapJSONData/ValleyoftheWind.json" />
+        <option value="$PROJECT_DIR$/mapJSONData/MistyWoods.json" />
       </list>
     </option>
   </component>
@@ -683,26 +666,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mapJSONData/SunkenGlades.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18955731">
-          <caret line="667" column="4" selection-start-line="667" selection-start-column="4" selection-end-line="667" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MoonGrotto.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-2.6153846">
           <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mapJSONData/MoonGrotto.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.076923">
-          <caret line="492" column="2" selection-start-line="492" selection-start-column="2" selection-end-line="509" selection-end-column="4" />
           <folding />
         </state>
       </provider>
@@ -799,26 +766,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mapJSONData/MistyWoods.json">
+    <entry file="file://$PROJECT_DIR$/mapJSONData/ForlornRuins.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.307693">
-          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.30454546">
+          <caret line="54" column="14" selection-start-line="54" selection-start-column="14" selection-end-line="54" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mapJSONData/ForlornRuins.json">
+    <entry file="file://$PROJECT_DIR$/mapJSONData/SunkenGlades.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-35.307693">
-          <caret line="54" column="14" selection-start-line="54" selection-start-column="14" selection-end-line="54" selection-end-column="14" />
+        <state vertical-scroll-proportion="-5.1454544">
+          <caret line="331" column="33" selection-start-line="331" selection-start-column="19" selection-end-line="331" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mapJSONData/MoonGrotto.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.0">
+          <caret line="492" column="2" selection-start-line="492" selection-start-column="2" selection-end-line="509" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mapJSONData/ValleyoftheWind.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3632236">
-          <caret line="141" column="23" selection-start-line="141" selection-start-column="23" selection-end-line="141" selection-end-column="23" />
+        <state vertical-scroll-proportion="72.0">
+          <caret line="96" column="2" selection-start-line="96" selection-start-column="2" selection-end-line="114" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mapJSONData/MistyWoods.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.111363634">
+          <caret line="185" column="7" selection-start-line="185" selection-start-column="7" selection-end-line="185" selection-end-column="7" />
           <folding />
         </state>
       </provider>
