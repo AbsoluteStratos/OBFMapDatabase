@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63ccda6b-fb21-49ec-b3e0-30ea13a6968f" name="Default" comment="Initial commit">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mapJSONData/MountHoru.json" afterPath="$PROJECT_DIR$/mapJSONData/MountHoru.json" />
     </list>
     <ignored path="Ori.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -66,8 +66,8 @@
       <file leaf-file-name="MountHoru.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mapJSONData/MountHoru.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.37485173">
+              <caret line="295" column="13" selection-start-line="295" selection-start-column="13" selection-end-line="295" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -151,6 +151,7 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/mapJSONData/ForlornRuins.json" />
         <option value="$PROJECT_DIR$/mapJSONData/MistyWoods.json" />
+        <option value="$PROJECT_DIR$/mapJSONData/MountHoru.json" />
       </list>
     </option>
   </component>
@@ -160,10 +161,10 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="-325" />
+    <option name="y" value="315" />
     <option name="width" value="1936" />
-    <option name="height" value="1066" />
+    <option name="height" value="1029" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -364,7 +365,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="-325" y="315" width="1936" height="1029" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14805058" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -776,8 +777,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mapJSONData/MountHoru.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.37485173">
+          <caret line="295" column="13" selection-start-line="295" selection-start-column="13" selection-end-line="295" selection-end-column="13" />
           <folding />
         </state>
       </provider>
