@@ -1,0 +1,48 @@
+/* This is the sass style sheet for the about page
+   Compiles to stylesheets aboutPage.css
+*/
+/* line 9, ../sass/aboutPage.scss */
+.imgDiv img {
+  width: 100%;
+  display: block;
+  margin: auto auto;
+  vertical-align: middle;
+}
+
+/* line 17, ../sass/aboutPage.scss */
+.row {
+  display: table;
+}
+/* line 19, ../sass/aboutPage.scss */
+.row .col {
+  float: none;
+  display: table-cell;
+  vertical-align: middle;
+  margin: auto auto;
+}
+
+/* line 26, ../sass/aboutPage.scss */
+.col a {
+  text-decoration: none;
+  color: black;
+}
+/* line 29, ../sass/aboutPage.scss */
+.col a:hover {
+  text-decoration: underline;
+}
+
+/* line 33, ../sass/aboutPage.scss */
+#homeDiv {
+  text-align: center;
+  font-size: x-large;
+  margin: 10px 0px 20px 0px;
+}
+/* line 37, ../sass/aboutPage.scss */
+#homeDiv a {
+  text-decoration: none;
+  color: black;
+}
+/* line 40, ../sass/aboutPage.scss */
+#homeDiv a:hover {
+  text-decoration: underline;
+}

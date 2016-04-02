@@ -1,0 +1,44 @@
+/* This is the sass style sheet for the about page
+   Compiles to stylesheets aboutPage.css
+*/
+@import "compass";
+
+$picWidth: 100%;
+
+.imgDiv{
+  & img{
+    width: $picWidth;
+    display: block;
+    margin: auto auto;
+    vertical-align: middle;
+  }
+}
+
+.row{
+  display: table;
+  & .col{
+    float: none;
+    display: table-cell;
+    vertical-align: middle;
+    margin: auto auto;
+  }
+}
+.col a{
+  text-decoration: none;
+  color: black;
+  &:hover{
+    text-decoration: underline;
+  }
+}
+#homeDiv{
+  text-align: center;
+  font-size: x-large;
+  margin: 10px 0px 20px 0px;
+  & a{
+    text-decoration: none;
+    color: black;
+    &:hover{
+      text-decoration: underline;
+    }
+  }
+}
