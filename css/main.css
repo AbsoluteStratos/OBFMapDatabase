@@ -5,13 +5,13 @@
 }
 
 body {
-    height: 100%;
+    /*height: 100%;
     /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#53cbf1+0,e0f5f6+100 */
-    background: #53cbf1; /* Old browsers */
-    background: -moz-linear-gradient(top,  #53cbf1 0%, #e0f5f6 100%); /* FF3.6-15 */
-    background: -webkit-linear-gradient(top,  #53cbf1 0%, #1000f6 100%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(to bottom,  #53cbf1 0%, #0700f6 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#53cbf1', endColorstr='#e0f5f6',GradientType=0 ); /* IE6-9 */
+    /*background: #53cbf1; /* Old browsers */
+    /*background: -moz-linear-gradient(top,  #53cbf1 0%, #e0f5f6 100%); /* FF3.6-15 */
+    /*background: -webkit-linear-gradient(top,  #53cbf1 0%, #1000f6 100%); /* Chrome10-25,Safari5.1-6 */
+    /*background: linear-gradient(to bottom,  #53cbf1 0%, #0700f6 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    /*filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#53cbf1', endColorstr='#e0f5f6',GradientType=0 ); /* IE6-9 */
 }
 
 /*==========================================*/
@@ -22,51 +22,6 @@ body {
     height: 40vw;
     max-height: 700px;
     min-height: 400px;
-}
-
-#mainTitle {
-    width: 100%;
-    margin-top: 20vh;
-    text-align: center;
-    font-family: Ori;
-    font-size: 100%;
-    text-shadow: 3px 3px #0004ff;
-    color: white;
-
-    -webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
-    -moz-animation: fadein 2s; /* Firefox < 16 */
-    -ms-animation: fadein 2s; /* Internet Explorer */
-    -o-animation: fadein 2s; /* Opera < 12.1 */
-    animation: fadein 2s;
-}
-
-@keyframes fadein {
-    from { opacity: 0; margin-top: 100px;}
-    to   { opacity: 1; margin-top: 20vh;}
-}
-
-/* Firefox < 16 */
-@-moz-keyframes fadein {
-    from { opacity: 0; margin-top: 100px;}
-    to   { opacity: 1; margin-top: 20vh;}
-}
-
-/* Safari, Chrome and Opera > 12.1 */
-@-webkit-keyframes fadein {
-    from { opacity: 0; margin-top: 100px;}
-    to   { opacity: 1; margin-top: 20vh;}
-}
-
-/* Internet Explorer */
-@-ms-keyframes fadein {
-    from { opacity: 0; margin-top: 100px;}
-    to   { opacity: 1; margin-top: 20vh;}
-}
-
-/* Opera < 12.1 */
-@-o-keyframes fadein {
-    from { opacity: 0; margin-top: 100px;}
-    to   { opacity: 1; margin-top: 20vh;}
 }
 
 .mainTitleText{
@@ -84,11 +39,11 @@ body {
 
 /*==========================================*/
 /*Map selection Table*/
-#mainTableDiv {
+/*#mainTableDiv {
     display: flex;
     flex-direction: column;
     height: 100%;
-}
+}*/
 
 #mainNavTable {
     margin: auto;

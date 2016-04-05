@@ -5,12 +5,13 @@
     <!--Import Google Icon Font-->
     <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link rel="shortcut icon" type="image/png" href="favicon.png"/>
+    <!--Let browser know website is optimized for mobile-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <!--Import css files-->
     <link type="text/css" rel="stylesheet" href="css/materialize.css"  media="screen,projection"/>
     <link type="text/css" rel="stylesheet" href="css/main.css"  media="screen,projection"/>
     <link type="text/css" rel="stylesheet" href="stylesheets/mainPage.css"  media="screen,projection"/>
-    <!--Let browser know website is optimized for mobile-->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
 
     <!--Load js scripts-->
     <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
@@ -21,9 +22,9 @@
 </head>
 
 <body>
-<div class="parallax-container">
-    <div class="parallax"><img src="img/TreeBackground.jpg"></div>
-    <div id = "mainTitle">
+<div id="titleDiv" class="css-parallax-container">
+    <div id = "topImage" class="css-parallax-layer css-parallax-back"></div>
+    <div id = "mainTitle" class="css-parallax-layer css-parallax-base">
         <div id="HiderDiv"><div id="particleSpawner"></div></div>
         <div class="mainTitleText">Ori and the Blind Forest</div>
         <div class="mainTitleText">Map Database</div>
@@ -41,7 +42,9 @@
     </div>
 </nav>
 
-<div  class="container" id="mainTableDiv">
+<div  class="container clearfix css-parallax-container" id="mainTableDiv">
+    <div class="css-parallax-layer css-parallax-back"></div>
+    <div  class="css-parallax-layer css-parallax-base">
     <table id="mainNavTable" align="center">
         <tr>
             <td class="mainNavZone">
@@ -145,9 +148,9 @@
             </td>
         </tr>
     </table>
+    </div>
 </div>
 
-<div style="height: 30px;"></div>
 <footer class="page-footer">
     <div class="footer-copyright">
         <div class="container">
