@@ -45,7 +45,7 @@ $(document).ready(function() {
     };
     L.control.layers(baseMaps).addTo(map); //Add layer control
 
-    //add standard controls
+    /*//add standard controls
     L.control.coordinates().addTo(map);
     //add configured controls
     L.control.coordinates({
@@ -61,7 +61,7 @@ $(document).ready(function() {
         labelTemplateLat:"N {y}",
         labelTemplateLng:"E {x}",
         useLatLngOrder:true
-    }).addTo(map);
+    }).addTo(map);*/
 
     icons = createIcons();
 
