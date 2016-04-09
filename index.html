@@ -9,7 +9,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <!--Import css files-->
     <link type="text/css" rel="stylesheet" href="css/materialize.css"  media="screen,projection"/>
-    <link type="text/css" rel="stylesheet" href="css/main.css"  media="screen,projection"/>
     <link type="text/css" rel="stylesheet" href="stylesheets/mainPage.css"  media="screen,projection"/>
 
 
@@ -18,16 +17,21 @@
     <script type="text/javascript" src="js/boxShadowAnimate.js"></script>
     <script type="text/javascript" src="js/materialize.min.js"></script>
     <script type="text/javascript" src="js/main.js"></script>
-    <script type="text/javascript" src="js/particleSpawn.js"></script>
+    <!--<script type="text/javascript" src="js/particleSpawn.js"></script>-->
 </head>
 
 <body>
 <div id="titleDiv" class="css-parallax-container">
+    <div id="starContainer">
+        <div id="stars"></div>
+        <div id="stars2"></div>
+    </div>
     <div id = "topImage" class="css-parallax-layer css-parallax-back"></div>
-    <div id = "mainTitle" class="css-parallax-layer css-parallax-base">
-        <div id="HiderDiv"><div id="particleSpawner"></div></div>
-        <div class="mainTitleText">Ori and the Blind Forest</div>
-        <div class="mainTitleText">Map Database</div>
+    <div class="css-parallax-layer css-parallax-base">
+        <div id = "mainTitle">
+            <div class="mainTitleText">Ori and the Blind Forest</div>
+            <div class="mainTitleText">Map Database</div>
+        </div>
     </div>
 </div>
 
@@ -42,10 +46,9 @@
     </div>
 </nav>
 
-<div  class="container clearfix css-parallax-container" id="mainTableDiv">
-    <div class="css-parallax-layer css-parallax-back"></div>
-    <div  class="css-parallax-layer css-parallax-base">
-    <table id="mainNavTable" align="center">
+<div  class="css-parallax-container-2">
+    <!--<div id="navTableBack" class="css-parallax-layer css-parallax-front"></div>-->
+    <table class="container" id="mainNavTable" align="center">
         <tr>
             <td class="mainNavZone">
                 <a href="SunkenGlades.html">
@@ -148,7 +151,6 @@
             </td>
         </tr>
     </table>
-    </div>
 </div>
 
 <footer class="page-footer">

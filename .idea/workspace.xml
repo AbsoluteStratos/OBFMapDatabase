@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63ccda6b-fb21-49ec-b3e0-30ea13a6968f" name="Default" comment="Initial commit">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Working/ForswonBack.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Working/Repeat.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Working/SimonKoop.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Working/SimonKoop.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Working/SimonKoopNoCenter.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Working/SimonKoopOrg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Working/WorldMap.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Working/assets.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/.sass-cache/f854515e9affe33cf4b113555c6d88f7f5825fb7/mainPage.scssc" afterPath="$PROJECT_DIR$/sass/.sass-cache/f854515e9affe33cf4b113555c6d88f7f5825fb7/mainPage.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
@@ -31,8 +40,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-20.923077">
-              <caret line="47" column="44" selection-start-line="47" selection-start-column="44" selection-end-line="47" selection-end-column="44" />
+            <state vertical-scroll-proportion="-18.307692">
+              <caret line="31" column="12" selection-start-line="31" selection-start-column="12" selection-end-line="32" selection-end-column="57" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -45,30 +54,18 @@
       <file leaf-file-name="mainPage.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sass/mainPage.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5402951">
-              <caret line="70" column="7" selection-start-line="70" selection-start-column="7" selection-end-line="70" selection-end-column="7" />
+            <state vertical-scroll-proportion="-0.23496027">
+              <caret line="266" column="33" selection-start-line="266" selection-start-column="33" selection-end-line="266" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mainPage.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stylesheets/mainPage.css">
+      <file leaf-file-name="mapPage.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/mapPage.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.230769">
-              <caret line="83" column="1" selection-start-line="83" selection-start-column="1" selection-end-line="83" selection-end-column="1" />
-              <folding>
-                <marker date="1459827796017" expanded="true" signature="230:252" placeholder="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.1153846">
-              <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+            <state vertical-scroll-proportion="-13.076923">
+              <caret line="47" column="17" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -96,7 +93,6 @@
         <option value="$PROJECT_DIR$/css/MapPage.css" />
         <option value="$PROJECT_DIR$/leaflet/leaflet.js" />
         <option value="$PROJECT_DIR$/leaflet/leafletAJAX.js" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/leaflet/leaflet.css" />
         <option value="$PROJECT_DIR$/leaflet/leaflet-src.js" />
         <option value="$PROJECT_DIR$/css/materialize.css" />
@@ -136,6 +132,7 @@
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/sass/mainPage.scss" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -175,8 +172,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -220,6 +217,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="sass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OBFMapDatabase" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OBFMapDatabase" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -440,13 +451,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.018847007">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leaflet/leaflet.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-15.620689">
@@ -517,13 +521,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.9746417">
           <caret line="54" column="36" selection-start-line="54" selection-start-column="36" selection-end-line="54" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/mapPage.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.346153">
-          <caret line="85" column="1" selection-start-line="85" selection-start-column="1" selection-end-line="85" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -700,28 +697,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
+    <entry file="file://$PROJECT_DIR$/stylesheets/mainPage.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.1153846">
-          <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+        <state vertical-scroll-proportion="-6.037736">
+          <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/mainPage.css">
+    <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.230769">
-          <caret line="83" column="1" selection-start-line="83" selection-start-column="1" selection-end-line="83" selection-end-column="1" />
-          <folding>
-            <marker date="1459827796017" expanded="true" signature="230:252" placeholder="{...}" />
-          </folding>
+        <state vertical-scroll-proportion="0.27014756">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-20.923077">
-          <caret line="47" column="44" selection-start-line="47" selection-start-column="44" selection-end-line="47" selection-end-column="44" />
+        <state vertical-scroll-proportion="-18.307692">
+          <caret line="31" column="12" selection-start-line="31" selection-start-column="12" selection-end-line="32" selection-end-column="57" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -730,10 +725,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/mapPage.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.076923">
+          <caret line="47" column="17" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.038636364">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sass/mainPage.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5402951">
-          <caret line="70" column="7" selection-start-line="70" selection-start-column="7" selection-end-line="70" selection-end-column="7" />
+        <state vertical-scroll-proportion="-0.23496027">
+          <caret line="266" column="33" selection-start-line="266" selection-start-column="33" selection-end-line="266" selection-end-column="33" />
           <folding />
         </state>
       </provider>
