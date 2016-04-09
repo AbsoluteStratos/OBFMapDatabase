@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63ccda6b-fb21-49ec-b3e0-30ea13a6968f" name="Default" comment="Initial commit">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Working/ForswonBack.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Working/Repeat.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Working/SimonKoop.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Working/SimonKoop.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Working/SimonKoopNoCenter.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Working/SimonKoopOrg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Working/WorldMap.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Working/assets.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/.sass-cache/f854515e9affe33cf4b113555c6d88f7f5825fb7/mainPage.scssc" afterPath="$PROJECT_DIR$/sass/.sass-cache/f854515e9affe33cf4b113555c6d88f7f5825fb7/mainPage.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/mainPage.scss" afterPath="$PROJECT_DIR$/sass/mainPage.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stylesheets/mainPage.css" afterPath="$PROJECT_DIR$/stylesheets/mainPage.css" />
     </list>
     <ignored path="Ori.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -54,8 +41,8 @@
       <file leaf-file-name="mainPage.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sass/mainPage.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.23496027">
-              <caret line="266" column="33" selection-start-line="266" selection-start-column="33" selection-end-line="266" selection-end-column="33" />
+            <state vertical-scroll-proportion="0.26674235">
+              <caret line="64" column="36" selection-start-line="64" selection-start-column="36" selection-end-line="64" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -131,8 +118,8 @@
         <option value="$PROJECT_DIR$/stylesheets/mainPage.css" />
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/sass/mainPage.scss" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/sass/mainPage.scss" />
       </list>
     </option>
   </component>
@@ -743,8 +730,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sass/mainPage.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.23496027">
-          <caret line="266" column="33" selection-start-line="266" selection-start-column="33" selection-end-line="266" selection-end-column="33" />
+        <state vertical-scroll-proportion="0.26674235">
+          <caret line="64" column="36" selection-start-line="64" selection-start-column="36" selection-end-line="64" selection-end-column="36" />
           <folding />
         </state>
       </provider>
