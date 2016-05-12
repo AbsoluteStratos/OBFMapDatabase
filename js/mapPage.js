@@ -21,13 +21,13 @@ $(document).ready(function() {
     });
 
     //Load map tile layers
-    var fullMap = L.tileLayer('/OBFMapDatabase/img/Maps/FullMap/{z}/{x}/{y}.png', {
+    var fullMap = L.tileLayer('/img/Maps/FullMap/{z}/{x}/{y}.png', {
         minZoom: 0,
         maxZoom: 5,
         attribution: 'Full Map',
         tms: true
     });
-    var localMap = L.tileLayer('/OBFMapDatabase/img/Maps/'+zoneName+'/{z}/{x}/{y}.png', {
+    var localMap = L.tileLayer('/img/Maps/'+zoneName+'/{z}/{x}/{y}.png', {
         minZoom: 0,
         maxZoom: 5,
         attribution: zoneName,
