@@ -169,14 +169,14 @@ function createIcons(){
     myIcons[1] = new Array(12);
 
     myIcons[0][0] = L.icon({
-        iconUrl: '/OBFMapDatabase/img/MapIcons/life-cell.png',
+        iconUrl: '/img/MapIcons/life-cell.png',
         iconSize:     [25, 25], // size of the icon
         iconAnchor:   [12.5, 12.5], // point of the icon which will correspond to marker's location
         popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor
     });
 
     myIcons[0][1] = L.icon({
-        iconUrl: '/OBFMapDatabase/img/MapIcons/energy-cell.png',
+        iconUrl: '/img/MapIcons/energy-cell.png',
 
         iconSize:     [25, 25], // size of the icon
         iconAnchor:   [12.5, 12.5], // point of the icon which will correspond to marker's location
@@ -184,84 +184,84 @@ function createIcons(){
     });
 
     myIcons[0][2] = L.icon({
-        iconUrl: '/OBFMapDatabase/img/MapIcons/ability-point.png',
+        iconUrl: '/img/MapIcons/ability-point.png',
         iconSize:     [25, 25], // size of the icon
         iconAnchor:   [12.5, 12.5], // point of the icon which will correspond to marker's location
         popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor
     });
 
     myIcons[0][3] = L.icon({
-        iconUrl: '/OBFMapDatabase/img/MapIcons/spirit-light-container.png',
+        iconUrl: '/img/MapIcons/spirit-light-container.png',
         iconSize:     [25, 25], // size of the icon
         iconAnchor:   [12.5, 12.5], // point of the icon which will correspond to marker's location
         popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor
     });
 
     myIcons[0][4] = L.icon({
-        iconUrl: '/OBFMapDatabase/img/MapIcons/map-stone-fragment.png',
+        iconUrl: '/img/MapIcons/map-stone-fragment.png',
         iconSize:     [25, 25], // size of the icon
         iconAnchor:   [12.5, 12.5], // point of the icon which will correspond to marker's location
         popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor
     });
 
     myIcons[0][5] = L.icon({
-        iconUrl: '/OBFMapDatabase/img/MapIcons/keystone.png',
+        iconUrl: '/img/MapIcons/keystone.png',
         iconSize:     [25, 25], // size of the icon
         iconAnchor:   [12.5, 12.5], // point of the icon which will correspond to marker's location
         popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor
     });
 
     myIcons[0][6] = L.icon({
-        iconUrl: '/OBFMapDatabase/img/MapIcons/spirit-gate-2.png',
+        iconUrl: '/img/MapIcons/spirit-gate-2.png',
         iconSize:     [25, 25], // size of the icon
         iconAnchor:   [12.5, 12.5], // point of the icon which will correspond to marker's location
         popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor
     });
 
     myIcons[1][6] = L.icon({
-        iconUrl: '/OBFMapDatabase/img/MapIcons/spirit-gate-4.png',
+        iconUrl: '/img/MapIcons/spirit-gate-4.png',
         iconSize:     [25, 25], // size of the icon
         iconAnchor:   [12.5, 12.5], // point of the icon which will correspond to marker's location
         popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor
     });
 
     myIcons[0][7] = L.icon({
-        iconUrl: '/OBFMapDatabase/img/MapIcons/energy-gate.png',
+        iconUrl: '/img/MapIcons/energy-gate.png',
         iconSize:     [25, 25], // size of the icon
         iconAnchor:   [12.5, 12.5], // point of the icon which will correspond to marker's location
         popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor
     });
 
     myIcons[0][8] = L.icon({
-        iconUrl: '/OBFMapDatabase/img/MapIcons/breakable-wall.png',
+        iconUrl: '/img/MapIcons/breakable-wall.png',
         iconSize:     [25, 25], // size of the icon
         iconAnchor:   [12.5, 12.5], // point of the icon which will correspond to marker's location
         popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor
     });
 
     myIcons[1][8] = L.icon({
-        iconUrl: '/OBFMapDatabase/img/MapIcons/stompable-floor.png',
+        iconUrl: '/img/MapIcons/stompable-floor.png',
         iconSize:     [25, 25], // size of the icon
         iconAnchor:   [12.5, 12.5], // point of the icon which will correspond to marker's location
         popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor
     });
 
     myIcons[0][9] = L.icon({
-        iconUrl: '/OBFMapDatabase/img/MapIcons/ancestral-tree.png',
+        iconUrl: '/img/MapIcons/ancestral-tree.png',
         iconSize:     [25, 25], // size of the icon
         iconAnchor:   [12.5, 12.5], // point of the icon which will correspond to marker's location
         popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor
     });
 
     myIcons[0][10] = L.icon({
-        iconUrl: '/OBFMapDatabase/img/MapIcons/map-stone.png',
+        iconUrl: '/img/MapIcons/map-stone.png',
         iconSize:     [25, 25], // size of the icon
         iconAnchor:   [12.5, 12.5], // point of the icon which will correspond to marker's location
         popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor
     });
 
     myIcons[0][11] = L.icon({
-        iconUrl: '/OBFMapDatabase/img/MapIcons/spirit-well.png',
+        iconUrl: '/img/MapIcons/spirit-well.png',
         iconSize:     [25, 25], // size of the icon
         iconAnchor:   [12.5, 12.5], // point of the icon which will correspond to marker's location
         popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor
